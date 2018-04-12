@@ -1,0 +1,914 @@
+
+
+------------Href text from HTML url http://irsg.bcs.org/ksjaward.php
+HOME
+COMMITTEE
+JOIN
+ABOUT
+CONTACT
+BCS
+Membership
+Informer
+ECIR
+KSJ Award
+Search Industry Awards
+Search Solutions
+AGM
+Committee Meetings
+
+
+Groups
+Resources
+Tweets by @bcs_irsg
+
+
+
+Past Events
+
+How to apply
+
+
+
+keynote talk at ECIR 2018
+a keynote at ECIR 2017
+keynote at ECIR 2016
+keynote at ECIR 2016
+keynote at ECIR 2015
+here
+download
+available
+download
+Copyright BCS 2009
+Legal and Privacy Notices
+
+
+------------Headings from HTML url http://irsg.bcs.org/ksjaward.php
+Microsoft BCS/BCS IRSG Karen Spärck Jones Award An Award to Commemorate Karen Spärck Jones
+Recipient of the Karen Spärck Jones award 2017
+Recipient of the Karen Spärck Jones award 2016
+Recipients of the Karen Spärck Jones award 2015
+Recipient of the Karen Spärck Jones award 2014
+Recipient of the 2013 award
+Recipient of the 2012 award
+No award was made in 2011
+Recipient of the 2010 award
+Recipient of the 2009 award
+Previous panel members
+
+
+------------Bold tags from HTML url http://irsg.bcs.org/ksjaward.php
+Informer
+Join
+BCS IRSG
+Fernando Diaz
+Jaime Teevan
+Jordan Boyd-Graber
+Emine Yilmaz
+Ryen White
+Eugene Agichtein
+Diane Kelly
+Evgeniy Gabrilovich
+Mirella Lapata
+
+
+------------Retrieved text from HTML url http://irsg.bcs.org/ksjaward.php
+Information Retrieval Specialist Group HOME COMMITTEE JOIN ABOUT CONTACT BCS Membership Informer ECIR KSJ Award Search Industry Awards Search Solutions AGM Committee Meetings Groups Resources Tweets by @bcs_irsg IRSG Supported Events Past Events Informer Read about IRSG activity in the latest Edition of Informer. How to apply If you are intrested in becoming a IT professional. Join the BCS-IRSG! Web Badge If you are a member of the BCS IRSG show your affiliation by displaying our Web Badge on your page. Click here for code. Microsoft BCS/BCS IRSG Karen Spärck Jones Award An Award to Commemorate Karen Spärck Jones The British Computer Society Information Retrieval Specialist Group (BCS IRSG) in conjunction with the BCS created an award in 2008 to commemorate the achievements of Karen Spärck Jones. Karen was a Professor Emerita of Computers and Information at the University of Cambridge and one of the most remarkable women in computer science. Her contributions to the fields of Information Retrieval (IR) and Natural Language Processing (NLP), especially with regard to experimentation, have been outstanding and highly influential. Karen's achievements resulted in her receiving a number of prestigious accolades such as the BCS Lovelace medal for her advancement in Information Systems, and the ACM Salton Award for her significant, sustained and continuing contributions to research in information retrieval. The IRSG is grateful to Microsoft Research for their sponsorship of the Karen Spärck-Jones award. Sponsered by: Recipient of the Karen Spärck Jones award 2017 We are pleased to announce that the Microsoft BCS/BCS IRSG Karen Spärck Jones Award 2017 is to be awarded to: Fernando Diaz Director of Research at Spotify The panel of independent experts in information retrieval (IR) and natural language processing (NLP) was particularly impressed by his great breadth and excellence of research, his raising of important issues, such as ethical issues, and his service to the community. In addition to that, the fact that Fernando has made major contributions in both IR and NLP is in the very spirit of the award. Congratulations and we are looking forward to an inspiring keynote talk at ECIR 2018 in Grenoble! Recipient of the Karen Spärck Jones award 2016 In 2016, the award panel had the difficult task to decide between a range of candidates with outstanding research credentials, all of which lead an impressive research programme with a view to advance our understanding of IR and/or NLP through experimentation. In giving the award to Jaime Teevan Affiliate Associate Professor at the University of Washington, Seattle, USA Principal Researcher at Microsoft Research, Redmond, USA the award panel recognises Jaime's technically strong and exceptionally creative contributions to the intersection of information retrieval, user experience and social media. In particular, Jaime has advanced our understanding of information retrieval through her contributions to design, implementation and careful evaluation of new retrieval algorithms and user experiences. Jaime will give a keynote at ECIR 2017. Recipients of the Karen Spärck Jones award 2015 In 2015, the award panel was highly impressed both by the quality and diversity of the field of candidates: it faced a hard time narrowing down the nominations to a short list. Even more so, it turned out the panel experienced a genuine difficulty of deciding between the two candidates who best matched the award criterion "To have endeavoured to advance our understanding of IR and/or NLP through experimentation." As a consequence, and unique to 2015, the panel decided to make two full awards. In alphabetical order: Jordan Boyd-Graber Assistant Professor, Computer Science Department University of Colorado, USA The panel recognised Jordan's technically strong and creative work on probabilistic topic models, in particular, how his work has shown that the semantic coherence of these topics can be systematically assessed, how linguistic knowledge such as word senses, syntactic relations and inter-language relationships can be incorporated - and crucially - how user feedback can easily and iteratively be integrated into learned topic models to improve the semantic coherence of the topics. The panel thought that Jordan has shaped our understanding of NLP in new and important ways through experimental machine learning research. Jordan gave a keynote at ECIR 2016 on interactive machine learning for understanding large document collections. Emine Yilmaz Lecturer, Department of Computer Science University College London, UK The panel was impressed by the body of Emine's research on evaluation techniques to better match the realities of modern information systems, in particular her work on missing user judgments, her proposed new metrics that are more robust to missing data and her work on expected browsing utility as a new evaluation metric derived from interaction patterns of real web search sessions. Her recent work focused on devising and evaluating the quality of task based information retrieval systems, retrieval systems that can help the user complete the task that have led them issue a query to a search engine, as opposed to just retrieving a list of documents relevant to the query submitted. The panel recognized that Emine's research has pushed the field of IR forward in these important aspects and that her work has had a high impact on academia and practice. Emine gave a keynote at ECIR 2016 on a task-based perspective to Information Retrieval. Recipient of the Karen Spärck Jones award 2014 Ryen White Senior Researcher at Microsoft Research Redmond, USA The award panel recognises that Ryen White has contributed in many layers to a better understanding of search interaction, eg, through novel and creative analyses of vital and as of yet unexplored aspects of searcher behavior closely coupled with the development of models and applications for improving the search experience. The panel was highly impressed by Ryen's academic output, many as leading or sole author, using experimental methods of large-scale log analyses, user studies and surveys. His sheer productivity, the take-up of his work in academia and a number of best paper awards at prestigious conferences including ACM SIGIR (3x), ACM CIKM, ACM SIGCHI and in JASIST speak for themselves. It is also a hallmark of Ryen's professional activity that he continued to serve the academic community though reviewing, track chairing and PC co-chairing at top conferences, editorial board memberships and guest editing while being a researcher in industry. Ryen gave a keynote at ECIR 2015 on Mining and Modelling Online Health Search. The slides of his lecture are available here Recipient of the 2013 award Eugene Agichtein Associate Professor Mathematics and Computer Science Department Emory University, Atlanta, USA In making the BCS/ BCS IRSG Karen Spärck-Jones Award for 2013, the Panel strongly recognizes that Eugene Agichtein has made several important contributions in search and large scale web text data mining with a focus on user interaction data. Eugene's work has included demonstrating how models of human information interactions can be inferred by leveraging computational techniques on what are large-scale but also noisy behaviour records. His work has been very influential - the depth of which across several areas is impressive. Eugene has focused on understanding and modelling user interaction in web search and collaborative question answering. For example, he has shown that click through and other forms of implicit feedback are useful for improving search results ranking when gathered across large numbers of users. This is one area of contribution where his work is seen as particularly influential. Eugene's work includes mouse movements and prediction of responses to advertising, and has reached out to other domains too. Overall, Eugene Agichtein's work is regarded as that of an excellent experimentalist that recognizes the critical linkages between information theory and experiment. Eugene gave a keynote speech at ECIR 2014. Recipient of the 2012 award Diane Kelly Associate Professor University of North Carolina, NC, USA In making the BCS/ BCS IRSG Karen Spärck-Jones Award for 2012, the Panel strongly recognizes that Diane has made important contributions to: the analysis of information seeking behaviors, and to the development of new experimental methods and systems to support information seeking and analysis. Diane has made several other important contributions to user modeling using implicit indicators of relevance, the development and analysis of interfaces to elicit richer statements of interest, and new methodologies for designing and evaluating interactive retrieval systems. Her strong user-oriented work views users-as-people with cognitive tasks. Diane gave a keynote speech at ECIR 2013. The slides of her talk are available for download No award was made in 2011 Recipient of the 2010 award Evgeniy Gabrilovich Senior Research Scientist and Manager of the NLP & IR Group of Yahoo! Research, California, U.S. Evgeniy gave a keynote speech at ECIR 2011. The abstract of his talk and his bio is available. Recipient of the 2009 award The first recipient of the KSJ award is Mirella Lapata Reader (Assoc Prof) School of Informatics University of Edinburgh Mirella's research has focused on various problems in NLP mostly with an emphasis on statistical methods and text generation applications. She has worked on complex problems like: word sense disambiguation, ambiguity resolution, semantic vector space, story generation, and many others. The abstract of her talk at ECIR 2009 and her bio is available for download. Previous panel members List of previous panel members in alphabetical order: Nicholas Belkin, Rutgers University Pia Borlund, University of Copenhagen Ann Copestake, University of Cambridge Susan Dumais, Microsoft Research Rob Gaizauskas, Sheffield University Ayse Goker, Robert Gordon University (chair 2009-2013) Katja Hofmann, Microsoft Research Cambridge Joemon Jose, University of Glasgow Udo Kruschwitz, University of Essex (chair 2017) Rada Mihalcea, University of Michigan Marie-Francine Moens, Katholieke Universiteit Leuven Doug Oard, University of Maryland Carol Peters, CNR Pisa Stephen Robertson, City University and University College London Stefan Rueger, The Open University, UK (chair 2014-2016) Tomek Strzalkowski, SUNY Albany Bonnie Webber, University of Edinburgh Marti Hearst, University of California, Berkeley Mark Sanderson, RMIT Milad Shokouhi, Microsoft Research Copyright BCS 2009 Legal and Privacy Notices BCS is a registered charity: No 292786 Page last modified: Jan 09, 2018
+
+
+
+
+------------Breaking text to sentences for tokenisation------------
+Information Retrieval Specialist Group HOME COMMITTEE JOIN ABOUT CONTACT BCS Membership Informer ECIR KSJ Award Search Industry Awards Search Solutions AGM Committee Meetings Groups Resources Tweets by @bcs_irsg IRSG Supported Events Past Events Informer Read about IRSG activity in the latest Edition of Informer. 
+How to apply If you are intrested in becoming a IT professional. 
+Join the BCS-IRSG! 
+Web Badge If you are a member of the BCS IRSG show your affiliation by displaying our Web Badge on your page. 
+Click here for code. 
+Microsoft BCS/BCS IRSG Karen Spärck Jones Award An Award to Commemorate Karen Spärck Jones The British Computer Society Information Retrieval Specialist Group (BCS IRSG) in conjunction with the BCS created an award in 2008 to commemorate the achievements of Karen Spärck Jones. 
+Karen was a Professor Emerita of Computers and Information at the University of Cambridge and one of the most remarkable women in computer science. 
+Her contributions to the fields of Information Retrieval (IR) and Natural Language Processing (NLP), especially with regard to experimentation, have been outstanding and highly influential. 
+Karen's achievements resulted in her receiving a number of prestigious accolades such as the BCS Lovelace medal for her advancement in Information Systems, and the ACM Salton Award for her significant, sustained and continuing contributions to research in information retrieval. 
+The IRSG is grateful to Microsoft Research for their sponsorship of the Karen Spärck-Jones award. 
+Sponsered by: Recipient of the Karen Spärck Jones award 2017 We are pleased to announce that the Microsoft BCS/BCS IRSG Karen Spärck Jones Award 2017 is to be awarded to: Fernando Diaz Director of Research at Spotify The panel of independent experts in information retrieval (IR) and natural language processing (NLP) was particularly impressed by his great breadth and excellence of research, his raising of important issues, such as ethical issues, and his service to the community. 
+In addition to that, the fact that Fernando has made major contributions in both IR and NLP is in the very spirit of the award. 
+Congratulations and we are looking forward to an inspiring keynote talk at ECIR 2018 in Grenoble! 
+Recipient of the Karen Spärck Jones award 2016 In 2016, the award panel had the difficult task to decide between a range of candidates with outstanding research credentials, all of which lead an impressive research programme with a view to advance our understanding of IR and/or NLP through experimentation. 
+In giving the award to Jaime Teevan Affiliate Associate Professor at the University of Washington, Seattle, USA Principal Researcher at Microsoft Research, Redmond, USA the award panel recognises Jaime's technically strong and exceptionally creative contributions to the intersection of information retrieval, user experience and social media. 
+In particular, Jaime has advanced our understanding of information retrieval through her contributions to design, implementation and careful evaluation of new retrieval algorithms and user experiences. 
+Jaime will give a keynote at ECIR 2017. 
+Recipients of the Karen Spärck Jones award 2015 In 2015, the award panel was highly impressed both by the quality and diversity of the field of candidates: it faced a hard time narrowing down the nominations to a short list. 
+Even more so, it turned out the panel experienced a genuine difficulty of deciding between the two candidates who best matched the award criterion "To have endeavoured to advance our understanding of IR and/or NLP through experimentation." 
+As a consequence, and unique to 2015, the panel decided to make two full awards. 
+In alphabetical order: Jordan Boyd-Graber Assistant Professor, Computer Science Department University of Colorado, USA The panel recognised Jordan's technically strong and creative work on probabilistic topic models, in particular, how his work has shown that the semantic coherence of these topics can be systematically assessed, how linguistic knowledge such as word senses, syntactic relations and inter-language relationships can be incorporated - and crucially - how user feedback can easily and iteratively be integrated into learned topic models to improve the semantic coherence of the topics. 
+The panel thought that Jordan has shaped our understanding of NLP in new and important ways through experimental machine learning research. 
+Jordan gave a keynote at ECIR 2016 on interactive machine learning for understanding large document collections. 
+Emine Yilmaz Lecturer, Department of Computer Science University College London, UK The panel was impressed by the body of Emine's research on evaluation techniques to better match the realities of modern information systems, in particular her work on missing user judgments, her proposed new metrics that are more robust to missing data and her work on expected browsing utility as a new evaluation metric derived from interaction patterns of real web search sessions. 
+Her recent work focused on devising and evaluating the quality of task based information retrieval systems, retrieval systems that can help the user complete the task that have led them issue a query to a search engine, as opposed to just retrieving a list of documents relevant to the query submitted. 
+The panel recognized that Emine's research has pushed the field of IR forward in these important aspects and that her work has had a high impact on academia and practice. 
+Emine gave a keynote at ECIR 2016 on a task-based perspective to Information Retrieval. 
+Recipient of the Karen Spärck Jones award 2014 Ryen White Senior Researcher at Microsoft Research Redmond, USA The award panel recognises that Ryen White has contributed in many layers to a better understanding of search interaction, eg, through novel and creative analyses of vital and as of yet unexplored aspects of searcher behavior closely coupled with the development of models and applications for improving the search experience. 
+The panel was highly impressed by Ryen's academic output, many as leading or sole author, using experimental methods of large-scale log analyses, user studies and surveys. 
+His sheer productivity, the take-up of his work in academia and a number of best paper awards at prestigious conferences including ACM SIGIR (3x), ACM CIKM, ACM SIGCHI and in JASIST speak for themselves. 
+It is also a hallmark of Ryen's professional activity that he continued to serve the academic community though reviewing, track chairing and PC co-chairing at top conferences, editorial board memberships and guest editing while being a researcher in industry. 
+Ryen gave a keynote at ECIR 2015 on Mining and Modelling Online Health Search. 
+The slides of his lecture are available here Recipient of the 2013 award Eugene Agichtein Associate Professor Mathematics and Computer Science Department Emory University, Atlanta, USA In making the BCS/ BCS IRSG Karen Spärck-Jones Award for 2013, the Panel strongly recognizes that Eugene Agichtein has made several important contributions in search and large scale web text data mining with a focus on user interaction data. 
+Eugene's work has included demonstrating how models of human information interactions can be inferred by leveraging computational techniques on what are large-scale but also noisy behaviour records. 
+His work has been very influential - the depth of which across several areas is impressive. 
+Eugene has focused on understanding and modelling user interaction in web search and collaborative question answering. 
+For example, he has shown that click through and other forms of implicit feedback are useful for improving search results ranking when gathered across large numbers of users. 
+This is one area of contribution where his work is seen as particularly influential. 
+Eugene's work includes mouse movements and prediction of responses to advertising, and has reached out to other domains too. 
+Overall, Eugene Agichtein's work is regarded as that of an excellent experimentalist that recognizes the critical linkages between information theory and experiment. 
+Eugene gave a keynote speech at ECIR 2014. 
+Recipient of the 2012 award Diane Kelly Associate Professor University of North Carolina, NC, USA In making the BCS/ BCS IRSG Karen Spärck-Jones Award for 2012, the Panel strongly recognizes that Diane has made important contributions to: the analysis of information seeking behaviors, and to the development of new experimental methods and systems to support information seeking and analysis. 
+Diane has made several other important contributions to user modeling using implicit indicators of relevance, the development and analysis of interfaces to elicit richer statements of interest, and new methodologies for designing and evaluating interactive retrieval systems. 
+Her strong user-oriented work views users-as-people with cognitive tasks. 
+Diane gave a keynote speech at ECIR 2013. 
+The slides of her talk are available for download No award was made in 2011 Recipient of the 2010 award Evgeniy Gabrilovich Senior Research Scientist and Manager of the NLP & IR Group of Yahoo! 
+Research, California, U.S. 
+Evgeniy gave a keynote speech at ECIR 2011. 
+The abstract of his talk and his bio is available. 
+Recipient of the 2009 award The first recipient of the KSJ award is Mirella Lapata Reader (Assoc Prof) School of Informatics University of Edinburgh Mirella's research has focused on various problems in NLP mostly with an emphasis on statistical methods and text generation applications. 
+She has worked on complex problems like: word sense disambiguation, ambiguity resolution, semantic vector space, story generation, and many others. 
+The abstract of her talk at ECIR 2009 and her bio is available for download. 
+Previous panel members List of previous panel members in alphabetical order: Nicholas Belkin, Rutgers University Pia Borlund, University of Copenhagen Ann Copestake, University of Cambridge Susan Dumais, Microsoft Research Rob Gaizauskas, Sheffield University Ayse Goker, Robert Gordon University (chair 2009-2013) Katja Hofmann, Microsoft Research Cambridge Joemon Jose, University of Glasgow Udo Kruschwitz, University of Essex (chair 2017) Rada Mihalcea, University of Michigan Marie-Francine Moens, Katholieke Universiteit Leuven Doug Oard, University of Maryland Carol Peters, CNR Pisa Stephen Robertson, City University and University College London Stefan Rueger, The Open University, UK (chair 2014-2016) Tomek Strzalkowski, SUNY Albany Bonnie Webber, University of Edinburgh Marti Hearst, University of California, Berkeley Mark Sanderson, RMIT Milad Shokouhi, Microsoft Research Copyright BCS 2009 Legal and Privacy Notices BCS is a registered charity: No 292786 Page last modified: Jan 09, 2018
+
+
+------------Tokenised words------------
+information, retrieval, specialist, group, home, committee, join, about, contact, bcs, membership, informer, ecir, ksj, award, search, industry, awards, search, solutions, agm, committee, meetings, groups, resources, tweets, by, bcs, irsg, irsg, supported, events, past, events, informer, read, about, irsg, activity, in, the, latest, edition, of, informer, how, to, apply, if, you, are, intrested, in, becoming, a, it, professional, join, the, bcs, irsg, web, badge, if, you, are, a, member, of, the, bcs, irsg, show, your, affiliation, by, displaying, our, web, badge, on, your, page, click, here, for, code, microsoft, bcs, bcs, irsg, karen, sp, rck, jones, award, an, award, to, commemorate, karen, sp, rck, jones, the, british, computer, society, information, retrieval, specialist, group, bcs, irsg, in, conjunction, with, the, bcs, created, an, award, in, 2008, to, commemorate, the, achievements, of, karen, sp, rck, jones, karen, was, a, professor, emerita, of, computers, and, information, at, the, university, of, cambridge, and, one, of, the, most, remarkable, women, in, computer, science, her, contributions, to, the, fields, of, information, retrieval, ir, and, natural, language, processing, nlp, especially, with, regard, to, experimentation, have, been, outstanding, and, highly, influential, karen, s, achievements, resulted, in, her, receiving, a, number, of, prestigious, accolades, such, as, the, bcs, lovelace, medal, for, her, advancement, in, information, systems, and, the, acm, salton, award, for, her, significant, sustained, and, continuing, contributions, to, research, in, information, retrieval, the, irsg, is, grateful, to, microsoft, research, for, their, sponsorship, of, the, karen, sp, rck, jones, award, sponsered, by, recipient, of, the, karen, sp, rck, jones, award, 2017, we, are, pleased, to, announce, that, the, microsoft, bcs, bcs, irsg, karen, sp, rck, jones, award, 2017, is, to, be, awarded, to, fernando, diaz, director, of, research, at, spotify, the, panel, of, independent, experts, in, information, retrieval, ir, and, natural, language, processing, nlp, was, particularly, impressed, by, his, great, breadth, and, excellence, of, research, his, raising, of, important, issues, such, as, ethical, issues, and, his, service, to, the, community, in, addition, to, that, the, fact, that, fernando, has, made, major, contributions, in, both, ir, and, nlp, is, in, the, very, spirit, of, the, award, congratulations, and, we, are, looking, forward, to, an, inspiring, keynote, talk, at, ecir, 2018, in, grenoble, recipient, of, the, karen, sp, rck, jones, award, 2016, in, 2016, the, award, panel, had, the, difficult, task, to, decide, between, a, range, of, candidates, with, outstanding, research, credentials, all, of, which, lead, an, impressive, research, programme, with, a, view, to, advance, our, understanding, of, ir, and, or, nlp, through, experimentation, in, giving, the, award, to, jaime, teevan, affiliate, associate, professor, at, the, university, of, washington, seattle, usa, principal, researcher, at, microsoft, research, redmond, usa, the, award, panel, recognises, jaime, s, technically, strong, and, exceptionally, creative, contributions, to, the, intersection, of, information, retrieval, user, experience, and, social, media, in, particular, jaime, has, advanced, our, understanding, of, information, retrieval, through, her, contributions, to, design, implementation, and, careful, evaluation, of, new, retrieval, algorithms, and, user, experiences, jaime, will, give, a, keynote, at, ecir, 2017, recipients, of, the, karen, sp, rck, jones, award, 2015, in, 2015, the, award, panel, was, highly, impressed, both, by, the, quality, and, diversity, of, the, field, of, candidates, it, faced, a, hard, time, narrowing, down, the, nominations, to, a, short, list, even, more, so, it, turned, out, the, panel, experienced, a, genuine, difficulty, of, deciding, between, the, two, candidates, who, best, matched, the, award, criterion, to, have, endeavoured, to, advance, our, understanding, of, ir, and, or, nlp, through, experimentation, as, a, consequence, and, unique, to, 2015, the, panel, decided, to, make, two, full, awards, in, alphabetical, order, jordan, boyd, graber, assistant, professor, computer, science, department, university, of, colorado, usa, the, panel, recognised, jordan, s, technically, strong, and, creative, work, on, probabilistic, topic, models, in, particular, how, his, work, has, shown, that, the, semantic, coherence, of, these, topics, can, be, systematically, assessed, how, linguistic, knowledge, such, as, word, senses, syntactic, relations, and, inter, language, relationships, can, be, incorporated, and, crucially, how, user, feedback, can, easily, and, iteratively, be, integrated, into, learned, topic, models, to, improve, the, semantic, coherence, of, the, topics, the, panel, thought, that, jordan, has, shaped, our, understanding, of, nlp, in, new, and, important, ways, through, experimental, machine, learning, research, jordan, gave, a, keynote, at, ecir, 2016, on, interactive, machine, learning, for, understanding, large, document, collections, emine, yilmaz, lecturer, department, of, computer, science, university, college, london, uk, the, panel, was, impressed, by, the, body, of, emine, s, research, on, evaluation, techniques, to, better, match, the, realities, of, modern, information, systems, in, particular, her, work, on, missing, user, judgments, her, proposed, new, metrics, that, are, more, robust, to, missing, data, and, her, work, on, expected, browsing, utility, as, a, new, evaluation, metric, derived, from, interaction, patterns, of, real, web, search, sessions, her, recent, work, focused, on, devising, and, evaluating, the, quality, of, task, based, information, retrieval, systems, retrieval, systems, that, can, help, the, user, complete, the, task, that, have, led, them, issue, a, query, to, a, search, engine, as, opposed, to, just, retrieving, a, list, of, documents, relevant, to, the, query, submitted, the, panel, recognized, that, emine, s, research, has, pushed, the, field, of, ir, forward, in, these, important, aspects, and, that, her, work, has, had, a, high, impact, on, academia, and, practice, emine, gave, a, keynote, at, ecir, 2016, on, a, task, based, perspective, to, information, retrieval, recipient, of, the, karen, sp, rck, jones, award, 2014, ryen, white, senior, researcher, at, microsoft, research, redmond, usa, the, award, panel, recognises, that, ryen, white, has, contributed, in, many, layers, to, a, better, understanding, of, search, interaction, eg, through, novel, and, creative, analyses, of, vital, and, as, of, yet, unexplored, aspects, of, searcher, behavior, closely, coupled, with, the, development, of, models, and, applications, for, improving, the, search, experience, the, panel, was, highly, impressed, by, ryen, s, academic, output, many, as, leading, or, sole, author, using, experimental, methods, of, large, scale, log, analyses, user, studies, and, surveys, his, sheer, productivity, the, take, up, of, his, work, in, academia, and, a, number, of, best, paper, awards, at, prestigious, conferences, including, acm, sigir, 3x, acm, cikm, acm, sigchi, and, in, jasist, speak, for, themselves, it, is, also, a, hallmark, of, ryen, s, professional, activity, that, he, continued, to, serve, the, academic, community, though, reviewing, track, chairing, and, pc, co, chairing, at, top, conferences, editorial, board, memberships, and, guest, editing, while, being, a, researcher, in, industry, ryen, gave, a, keynote, at, ecir, 2015, on, mining, and, modelling, online, health, search, the, slides, of, his, lecture, are, available, here, recipient, of, the, 2013, award, eugene, agichtein, associate, professor, mathematics, and, computer, science, department, emory, university, atlanta, usa, in, making, the, bcs, bcs, irsg, karen, sp, rck, jones, award, for, 2013, the, panel, strongly, recognizes, that, eugene, agichtein, has, made, several, important, contributions, in, search, and, large, scale, web, text, data, mining, with, a, focus, on, user, interaction, data, eugene, s, work, has, included, demonstrating, how, models, of, human, information, interactions, can, be, inferred, by, leveraging, computational, techniques, on, what, are, large, scale, but, also, noisy, behaviour, records, his, work, has, been, very, influential, the, depth, of, which, across, several, areas, is, impressive, eugene, has, focused, on, understanding, and, modelling, user, interaction, in, web, search, and, collaborative, question, answering, for, example, he, has, shown, that, click, through, and, other, forms, of, implicit, feedback, are, useful, for, improving, search, results, ranking, when, gathered, across, large, numbers, of, users, this, is, one, area, of, contribution, where, his, work, is, seen, as, particularly, influential, eugene, s, work, includes, mouse, movements, and, prediction, of, responses, to, advertising, and, has, reached, out, to, other, domains, too, overall, eugene, agichtein, s, work, is, regarded, as, that, of, an, excellent, experimentalist, that, recognizes, the, critical, linkages, between, information, theory, and, experiment, eugene, gave, a, keynote, speech, at, ecir, 2014, recipient, of, the, 2012, award, diane, kelly, associate, professor, university, of, north, carolina, nc, usa, in, making, the, bcs, bcs, irsg, karen, sp, rck, jones, award, for, 2012, the, panel, strongly, recognizes, that, diane, has, made, important, contributions, to, the, analysis, of, information, seeking, behaviors, and, to, the, development, of, new, experimental, methods, and, systems, to, support, information, seeking, and, analysis, diane, has, made, several, other, important, contributions, to, user, modeling, using, implicit, indicators, of, relevance, the, development, and, analysis, of, interfaces, to, elicit, richer, statements, of, interest, and, new, methodologies, for, designing, and, evaluating, interactive, retrieval, systems, her, strong, user, oriented, work, views, users, as, people, with, cognitive, tasks, diane, gave, a, keynote, speech, at, ecir, 2013, the, slides, of, her, talk, are, available, for, download, no, award, was, made, in, 2011, recipient, of, the, 2010, award, evgeniy, gabrilovich, senior, research, scientist, and, manager, of, the, nlp, ir, group, of, yahoo, research, california, u, s, evgeniy, gave, a, keynote, speech, at, ecir, 2011, the, abstract, of, his, talk, and, his, bio, is, available, recipient, of, the, 2009, award, the, first, recipient, of, the, ksj, award, is, mirella, lapata, reader, assoc, prof, school, of, informatics, university, of, edinburgh, mirella, s, research, has, focused, on, various, problems, in, nlp, mostly, with, an, emphasis, on, statistical, methods, and, text, generation, applications, she, has, worked, on, complex, problems, like, word, sense, disambiguation, ambiguity, resolution, semantic, vector, space, story, generation, and, many, others, the, abstract, of, her, talk, at, ecir, 2009, and, her, bio, is, available, for, download, previous, panel, members, list, of, previous, panel, members, in, alphabetical, order, nicholas, belkin, rutgers, university, pia, borlund, university, of, copenhagen, ann, copestake, university, of, cambridge, susan, dumais, microsoft, research, rob, gaizauskas, sheffield, university, ayse, goker, robert, gordon, university, chair, 2009, 2013, katja, hofmann, microsoft, research, cambridge, joemon, jose, university, of, glasgow, udo, kruschwitz, university, of, essex, chair, 2017, rada, mihalcea, university, of, michigan, marie, francine, moens, katholieke, universiteit, leuven, doug, oard, university, of, maryland, carol, peters, cnr, pisa, stephen, robertson, city, university, and, university, college, london, stefan, rueger, the, open, university, uk, chair, 2014, 2016, tomek, strzalkowski, suny, albany, bonnie, webber, university, of, edinburgh, marti, hearst, university, of, california, berkeley, mark, sanderson, rmit, milad, shokouhi, microsoft, research, copyright, bcs, 2009, legal, and, privacy, notices, bcs, is, a, registered, charity, no, 292786, page, last, modified, jan, 09, 2018, 
+
+
+
+------------Removing bold words in body text------------
+informer, informer, join, join, 
+
+------------Removing href text from body text------------
+home, committee, committee, about, about, contact, bcs, bcs, bcs, bcs, bcs, bcs, bcs, bcs, bcs, bcs, bcs, bcs, bcs, membership, informer, ecir, ecir, ecir, ecir, ecir, ecir, ecir, ecir, ecir, ecir, ksj, ksj, award, award, award, award, award, award, award, award, award, award, award, award, award, award, award, award, award, award, award, award, award, award, award, award, award, award, search, search, search, search, search, search, search, search, search, search, industry, industry, awards, awards, awards, solutions, agm, meetings, groups, resources, tweets, by, by, by, by, by, by, by, by, bcs, bcs, bcs, bcs, irsg, irsg, irsg, irsg, irsg, irsg, irsg, irsg, irsg, irsg, past, events, how, how, how, how, how, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, apply, keynote, keynote, keynote, keynote, keynote, keynote, keynote, keynote, talk, talk, talk, talk, at, at, at, at, at, at, at, at, at, at, at, at, at, at, at, at, 2018, 2018, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, 2017, 2017, 2017, 2017, 2016, 2016, 2016, 2016, 2016, 2015, 2015, 2015, 2015, here, here, download, download, available, available, available, available, copyright, 2009, 2009, 2009, 2009, legal, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, privacy, notices, 
+
+------------After removing stopwords------------
+information, retrieval, specialist, group, irsg, supported, events, read, activity, latest, edition, are, intrested, becoming, professional, web, badge, member, show, affiliation, displaying, web, badge, page, click, code, microsoft, karen, sp, rck, jones, commemorate, karen, sp, rck, jones, british, computer, society, information, retrieval, specialist, group, conjunction, created, 2008, commemorate, achievements, karen, sp, rck, jones, karen, professor, emerita, computers, information, university, cambridge, one, remarkable, women, computer, science, contributions, fields, information, retrieval, ir, natural, language, processing, nlp, especially, regard, experimentation, outstanding, highly, influential, karen, s, achievements, resulted, receiving, number, prestigious, accolades, lovelace, medal, advancement, information, systems, acm, salton, significant, sustained, continuing, contributions, research, information, retrieval, grateful, microsoft, research, sponsorship, karen, sp, rck, jones, sponsered, recipient, karen, sp, rck, jones, pleased, announce, microsoft, karen, sp, rck, jones, awarded, fernando, diaz, director, research, spotify, panel, independent, experts, information, retrieval, ir, natural, language, processing, nlp, particularly, impressed, great, breadth, excellence, research, raising, important, issues, ethical, issues, service, community, addition, fact, fernando, made, major, contributions, ir, nlp, very, spirit, congratulations, looking, forward, inspiring, grenoble, recipient, karen, sp, rck, jones, panel, difficult, task, decide, range, candidates, outstanding, research, credentials, lead, impressive, research, programme, view, advance, understanding, ir, nlp, experimentation, giving, jaime, teevan, affiliate, associate, professor, university, washington, seattle, usa, principal, researcher, microsoft, research, redmond, usa, panel, recognises, jaime, s, technically, strong, exceptionally, creative, contributions, intersection, information, retrieval, user, experience, social, media, particular, jaime, advanced, understanding, information, retrieval, contributions, design, implementation, careful, evaluation, new, retrieval, algorithms, user, experiences, jaime, will, give, recipients, karen, sp, rck, jones, panel, highly, impressed, quality, diversity, field, candidates, faced, hard, time, narrowing, nominations, short, list, even, turned, panel, experienced, genuine, difficulty, deciding, two, candidates, best, matched, criterion, endeavoured, advance, understanding, ir, nlp, experimentation, consequence, unique, panel, decided, make, two, full, alphabetical, order, jordan, boyd, graber, assistant, professor, computer, science, department, university, colorado, usa, panel, recognised, jordan, s, technically, strong, creative, work, probabilistic, topic, models, particular, work, shown, semantic, coherence, topics, can, systematically, assessed, linguistic, knowledge, word, senses, syntactic, relations, inter, language, relationships, can, incorporated, crucially, user, feedback, can, easily, iteratively, integrated, learned, topic, models, improve, semantic, coherence, topics, panel, thought, jordan, shaped, understanding, nlp, new, important, ways, experimental, machine, learning, research, jordan, gave, interactive, machine, learning, understanding, large, document, collections, emine, yilmaz, lecturer, department, computer, science, university, college, london, uk, panel, impressed, body, emine, s, research, evaluation, techniques, better, match, realities, modern, information, systems, particular, work, missing, user, judgments, proposed, new, metrics, robust, missing, data, work, expected, browsing, utility, new, evaluation, metric, derived, interaction, patterns, real, web, sessions, recent, work, focused, devising, evaluating, quality, task, based, information, retrieval, systems, retrieval, systems, can, help, user, complete, task, led, issue, query, engine, opposed, just, retrieving, list, documents, relevant, query, submitted, panel, recognized, emine, s, research, pushed, field, ir, forward, important, aspects, work, high, impact, academia, practice, emine, gave, task, based, perspective, information, retrieval, recipient, karen, sp, rck, jones, 2014, ryen, white, senior, researcher, microsoft, research, redmond, usa, panel, recognises, ryen, white, contributed, many, layers, better, understanding, interaction, eg, novel, creative, analyses, vital, yet, unexplored, aspects, searcher, behavior, closely, coupled, development, models, applications, improving, experience, panel, highly, impressed, ryen, s, academic, output, many, leading, sole, author, using, experimental, methods, large, scale, log, analyses, user, studies, surveys, sheer, productivity, take, work, academia, number, best, paper, prestigious, conferences, including, acm, sigir, 3x, acm, cikm, acm, sigchi, jasist, speak, is, also, hallmark, ryen, s, professional, activity, continued, serve, academic, community, though, reviewing, track, chairing, pc, co, chairing, top, conferences, editorial, board, memberships, guest, editing, researcher, ryen, gave, mining, modelling, online, health, slides, lecture, recipient, 2013, eugene, agichtein, associate, professor, mathematics, computer, science, department, emory, university, atlanta, usa, making, karen, sp, rck, jones, 2013, panel, strongly, recognizes, eugene, agichtein, made, several, important, contributions, large, scale, web, text, data, mining, focus, user, interaction, data, eugene, s, work, included, demonstrating, models, human, information, interactions, can, inferred, leveraging, computational, techniques, large, scale, also, noisy, behaviour, records, work, influential, depth, across, several, areas, impressive, eugene, focused, understanding, modelling, user, interaction, web, collaborative, question, answering, example, shown, click, forms, implicit, feedback, useful, improving, results, ranking, gathered, across, large, numbers, users, one, area, contribution, work, seen, particularly, influential, eugene, s, work, includes, mouse, movements, prediction, responses, advertising, reached, domains, overall, eugene, agichtein, s, work, regarded, an, excellent, experimentalist, recognizes, critical, linkages, information, theory, experiment, eugene, gave, speech, 2014, recipient, 2012, diane, kelly, associate, professor, university, north, carolina, nc, usa, making, karen, sp, rck, jones, 2012, panel, strongly, recognizes, diane, made, important, contributions, analysis, information, seeking, behaviors, development, new, experimental, methods, systems, support, information, seeking, analysis, diane, made, several, important, contributions, user, modeling, using, implicit, indicators, relevance, development, analysis, interfaces, elicit, richer, statements, interest, new, methodologies, designing, evaluating, interactive, retrieval, systems, strong, user, oriented, work, views, users, people, cognitive, tasks, diane, gave, speech, 2013, slides, for, made, 2011, recipient, 2010, evgeniy, gabrilovich, senior, research, scientist, manager, nlp, ir, group, yahoo, research, california, u, s, evgeniy, gave, speech, 2011, abstract, bio, recipient, first, recipient, mirella, lapata, reader, assoc, prof, school, informatics, university, edinburgh, mirella, s, research, focused, various, problems, nlp, mostly, emphasis, statistical, methods, text, generation, applications, worked, complex, problems, like, word, sense, disambiguation, ambiguity, resolution, semantic, vector, space, story, generation, many, others, abstract, bio, previous, panel, members, list, previous, panel, members, alphabetical, order, nicholas, belkin, rutgers, university, pia, borlund, university, copenhagen, ann, copestake, university, cambridge, susan, dumais, microsoft, research, rob, gaizauskas, sheffield, university, ayse, goker, robert, gordon, university, chair, 2013, katja, hofmann, microsoft, research, cambridge, joemon, jose, university, glasgow, udo, kruschwitz, university, essex, chair, rada, mihalcea, university, michigan, marie, francine, moens, katholieke, universiteit, leuven, doug, oard, university, maryland, carol, peters, cnr, pisa, stephen, robertson, city, university, university, college, london, stefan, rueger, open, university, uk, chair, 2014, tomek, strzalkowski, suny, albany, bonnie, webber, university, edinburgh, marti, hearst, university, california, berkeley, mark, sanderson, rmit, milad, shokouhi, microsoft, research, registered, charity, 292786, page, last, modified, jan, 09, 
+
+------------Remaining words after word frequency used to remove unnecessary words------------
+coherence, advance, evaluation, contributions, mirella, understanding, community, analysis, click, senior, science, evaluating, recognizes, strong, influential, systems, experimentation, fernando, outstanding, evgeniy, london, language, acm, analyses, making, list, users, candidates, 2012, 2011, better, 2014, 2013, college, ryen, bio, number, text, order, large, made, ir, jaime, agichtein, field, strongly, gave, eugene, semantic, particularly, forward, topics, machine, usa, impressed, several, associate, academia, academic, members, new, alphabetical, professor, task, specialist, focused, problems, best, department, highly, impressive, achievements, professional, models, based, using, quality, badge, processing, activity, two, conferences, one, many, nlp, speech, redmond, diane, slides, microsoft, white, uk, cambridge, california, query, edinburgh, modelling, improving, page, recognises, aspects, learning, missing, prestigious, previous, commemorate, recipient, applications, interactive, experimental, issues, feedback, generation, researcher, natural, creative, word, implicit, methods, across, computer, web, chair, abstract, data, experience, shown, jordan, group, development, particular, mining, important, techniques, topic, scale, can, chairing, also, technically, seeking, interaction, emine, 
+
+------------Choosing heading with NN and NNP tags------------
+Microsoft, BCS, BCS, IRSG, Karen, Sp, rck, Jones, Award, Award, Karen, Sp, rck, Jones, Karen, Sp, rck, Jones, award, Karen, Sp, rck, Jones, award, Recipients, Karen, Sp, rck, Jones, award, Karen, Sp, rck, Jones, award, award, award, award, award, award, panel, members, 
+
+------------Choosing bold words with NN and NNP tags------------
+Informer, BCS, IRSG, Fernando, Diaz, Jaime, Teevan, Jordan, Boyd, Graber, Emine, Yilmaz, Ryen, White, Eugene, Agichtein, Diane, Kelly, Evgeniy, Gabrilovich, Mirella, Lapata, 
+
+------------POS tagging and word lemmatization and stem------------
+Tag: coherence_NN   Word: coherence  Lemma: coherence  Stem: coherence
+Tag: advance_NN   Word: advance  Lemma: advance  Stem: advance
+Tag: evaluation_NN   Word: evaluation  Lemma: evaluation  Stem: evaluation
+Tag: contributions_NNS   Word: contributions  Lemma: contribution  Stem: contribution
+Tag: mirella_NN   Word: mirella  Lemma: mirellum  Stem: mirellum
+Tag: community_NN   Word: community  Lemma: community  Stem: community
+Tag: analysis_NN   Word: analysis  Lemma: analysis  Stem: analysis
+Tag: science_NN   Word: science  Lemma: science  Stem: science
+Tag: systems_NNS   Word: systems  Lemma: system  Stem: system
+Tag: experimentation_NN   Word: experimentation  Lemma: experimentation  Stem: experimentation
+Tag: fernando_NN   Word: fernando  Lemma: fernando  Stem: fernando
+Tag: evgeniy_NN   Word: evgeniy  Lemma: evgeniy  Stem: evgeniy
+Tag: london_NN   Word: london  Lemma: london  Stem: london
+Tag: language_NN   Word: language  Lemma: language  Stem: language
+Tag: acm_NN   Word: acm  Lemma: acm  Stem: acm
+Tag: analyses_NNS   Word: analyses  Lemma: analysis  Stem: analyse
+Tag: list_NN   Word: list  Lemma: list  Stem: list
+Tag: users_NNS   Word: users  Lemma: user  Stem: user
+Tag: candidates_NNS   Word: candidates  Lemma: candidate  Stem: candidate
+Tag: college_NN   Word: college  Lemma: college  Stem: college
+Tag: ryen_NN   Word: ryen  Lemma: ryen  Stem: ryen
+Tag: bio_NN   Word: bio  Lemma: bio  Stem: bio
+Tag: number_NN   Word: number  Lemma: number  Stem: number
+Tag: text_NN   Word: text  Lemma: text  Stem: text
+Tag: order_NN   Word: order  Lemma: order  Stem: order
+Tag: ir_NN   Word: ir  Lemma: ir  Stem: ir
+Tag: jaime_NN   Word: jaime  Lemma: jaime  Stem: jaime
+Tag: agichtein_NN   Word: agichtein  Lemma: agichtein  Stem: agichtein
+Tag: field_NN   Word: field  Lemma: field  Stem: field
+Tag: eugene_NN   Word: eugene  Lemma: eugene  Stem: eugene
+Tag: topics_NNS   Word: topics  Lemma: topic  Stem: topic
+Tag: machine_NN   Word: machine  Lemma: machine  Stem: machine
+Tag: usa_NN   Word: usa  Lemma: usa  Stem: usa
+Tag: associate_NN   Word: associate  Lemma: associate  Stem: associate
+Tag: academia_NN   Word: academia  Lemma: academia  Stem: academia
+Tag: members_NNS   Word: members  Lemma: member  Stem: member
+Tag: professor_NN   Word: professor  Lemma: professor  Stem: professor
+Tag: task_NN   Word: task  Lemma: task  Stem: task
+Tag: specialist_NN   Word: specialist  Lemma: specialist  Stem: specialist
+Tag: problems_NNS   Word: problems  Lemma: problem  Stem: problem
+Tag: department_NN   Word: department  Lemma: department  Stem: department
+Tag: achievements_NNS   Word: achievements  Lemma: achievement  Stem: achievement
+Tag: models_NNS   Word: models  Lemma: model  Stem: model
+Tag: quality_NN   Word: quality  Lemma: quality  Stem: quality
+Tag: badge_NN   Word: badge  Lemma: badge  Stem: badge
+Tag: processing_NN   Word: processing  Lemma: processing  Stem: process
+Tag: activity_NN   Word: activity  Lemma: activity  Stem: activity
+Tag: conferences_NNS   Word: conferences  Lemma: conference  Stem: conference
+Tag: nlp_NN   Word: nlp  Lemma: nlp  Stem: nlp
+Tag: speech_NN   Word: speech  Lemma: speech  Stem: speech
+Tag: redmond_NN   Word: redmond  Lemma: redmond  Stem: redmond
+Tag: diane_NN   Word: diane  Lemma: diane  Stem: diane
+Tag: slides_NNS   Word: slides  Lemma: slide  Stem: slide
+Tag: microsoft_NN   Word: microsoft  Lemma: microsoft  Stem: microsoft
+Tag: uk_NN   Word: uk  Lemma: uk  Stem: uk
+Tag: cambridge_NN   Word: cambridge  Lemma: cambridge  Stem: cambridge
+Tag: california_NN   Word: california  Lemma: californium  Stem: californium
+Tag: query_NN   Word: query  Lemma: query  Stem: query
+Tag: edinburgh_NN   Word: edinburgh  Lemma: edinburgh  Stem: edinburgh
+Tag: modelling_NN   Word: modelling  Lemma: modelling  Stem: model
+Tag: page_NN   Word: page  Lemma: page  Stem: page
+Tag: aspects_NNS   Word: aspects  Lemma: aspect  Stem: aspect
+Tag: applications_NNS   Word: applications  Lemma: application  Stem: application
+Tag: issues_NNS   Word: issues  Lemma: issue  Stem: issue
+Tag: feedback_NN   Word: feedback  Lemma: feedback  Stem: feedback
+Tag: generation_NN   Word: generation  Lemma: generation  Stem: generation
+Tag: researcher_NN   Word: researcher  Lemma: researcher  Stem: researcher
+Tag: word_NN   Word: word  Lemma: word  Stem: word
+Tag: methods_NNS   Word: methods  Lemma: method  Stem: method
+Tag: computer_NN   Word: computer  Lemma: computer  Stem: computer
+Tag: web_NN   Word: web  Lemma: web  Stem: web
+Tag: chair_NN   Word: chair  Lemma: chair  Stem: chair
+Tag: data_NNS   Word: data  Lemma: datum  Stem: datum
+Tag: experience_NN   Word: experience  Lemma: experience  Stem: experience
+Tag: jordan_NN   Word: jordan  Lemma: jordan  Stem: jordan
+Tag: group_NN   Word: group  Lemma: group  Stem: group
+Tag: development_NN   Word: development  Lemma: development  Stem: development
+Tag: mining_NN   Word: mining  Lemma: mining  Stem: mine
+Tag: techniques_NNS   Word: techniques  Lemma: technique  Stem: technique
+Tag: topic_NN   Word: topic  Lemma: topic  Stem: topic
+Tag: scale_NN   Word: scale  Lemma: scale  Stem: scale
+Tag: interaction_NN   Word: interaction  Lemma: interaction  Stem: interaction
+Tag: emine_NN   Word: emine  Lemma: emine  Stem: emine
+
+
+
+
+------------Href text from HTML url http://csee.essex.ac.uk/staff/udo/index.html
+Language and Computation Group (LAC)
+16th LAC Day
+15th LAC Day 2016
+14th LAC Day 2015
+13th LAC Day 2014
+12th LAC Day 2013
+11th LAC Day 2012
+10th LAC Day 2011
+intelligent directory enquiry assistant (YPA) project
+extraction of conceptual information
+BT's mobile workforce
+log analysis study
+
+Minority Rights Group
+
+Intelligent Games and Game Intelligence (IGGI)
+explore our students' profiles!
+
+Minority Rights Group
+Iraq Ceasefire Portal
+Corpus of Violence Acts in Arabic Social Media
+our LREC 2016 paper
+
+Signal Media
+Miguel Martinez-Alvarez
+Business Leader of Tomorrow
+video portrait
+here
+ECIR 2015
+Techcrunch
+Best KTP Partnership Award 2015
+InnovateUK's home page
+KTP project
+
+Creating anaphorically annotated resources through semantic wikis (AnaWiki) (EPSRC)
+Phrase Detectives
+DALI project
+
+SENSEI FP7 project
+Brexit results
+this one
+
+(AutoAdapt)
+Robert Gordon University Aberdeen and the Open University
+Patient Experience and Public Engagement Blogs (PEBL)
+JobServe
+intelligent mail server
+Learning Disabilities Data and Information Infrastructure Project (ESRC)
+Markup-Based Knowledge Extraction Project (EPSRC)
+Intelligent Directory Enquiry (YPA) Project (BT)
+Panel chair of the Karen Spärck Jones Award
+Fernando Diaz
+Here is the original Call.
+
+here
+Autumn 2017 IRSG newsletter!
+Text Analytics Meetup in London
+Game AI Meetup in London
+ECIR 2019
+SIGIR 2018
+Games4NLP 2018
+HCOMP 2018
+ICTIR 2018
+CHIIR 2018
+WWW 2018
+WSDM 2018
+NAACL HLT 2018
+ECIR 2018
+Text2Story'18
+ECIR 2018
+NewsIR'18
+ECIR 2018
+LREC 2018
+SwissText 2018
+ISWC 2018
+Search Solutions 2017
+SIGIR 2017
+Outstanding Reviewer Award
+RANLP 2017
+FDIA 2017
+AIRS 2017
+Mindtrek 2017 Data-Driven Gamification Design Worksop
+CIKM 2017
+ISWC 2017
+Games4NLP 2017
+ECIR 2017
+WWW 2017
+ESWC 2017
+MultiLing 2017
+CHIIR 2017
+MMM 2017
+Search Solutions 2016
+Gamification for Information Retrieval (GamifIR'16)
+SIGIR 2016
+SIGIR 2016
+AIRS 2016
+CIKM 2016
+Workshop on Accessing Cultural Heritage at Scale
+Workshop on Recent Advances in News Information Retrieval (NewsIR'16)
+ECIR 2016
+KONVENS 2016
+WSDM 2016
+CHIIR 2016
+ECIR 2016
+LREC 2016
+ACHS Workshop at JCDL 2016
+ESWC 2016
+Search Solutions 2015
+MultiLing 2015
+CIKM 2015
+AIRS 2015
+JCDL 2015
+SIGIR 2015
+FDIA 2015
+Gamification for Information Retrieval (GamifIR'15)
+ECIR 2015
+ECIR 2015
+AAAI 2015 Student Program
+CLEF 2015 News Recommender Challenge (NEWSREEL)
+ESWC 2015
+ACL 2015 Workshop on Hybrid Approaches to Translation (HyTra)
+RANLP 2015
+IEEE/WIC/ACM International Conference on Web Intelligence 2015
+IR 2015
+Search Solutions 2014
+SIGIR 2014
+SIGIR Symposium on IR in Practice (SIRIP 2014)
+GamifIR'14
+ECIR 2014
+MindTheGap'14
+iConference 2014
+IIiX 2014
+IRF Conference 2014
+ECIR 2014
+LREC 2014
+EACL 2014 Workshop on Hybrid Approaches to Translation (HyTra)
+UMAP 2014 Workshop on Personalised Multilingual Information Access
+CLEF 2014 News Recommender Challenge (NEWSREEL)
+KONVENS 2014
+MMM 2014
+AAAI 2014 Student Program
+IEEE/WIC/ACM International Conference on Web Intelligence 2014
+Search Solutions 2013
+SIGIR 2013
+SIGIR 2013 BARS Workshop
+SIGIR 2013 ENRICH Workshop
+RANLP 2013
+IJCNLP 2013
+ECIR 2013
+DIR 2013
+IRF Conference 2013
+IEEE/WIC/ACM International Conference on Web Intelligence 2013
+IR 2013
+ESWC 2013
+AAAI 2013 Student Program
+ACL 2013 Workshop on Hybrid Approaches to Translation (HyTra)
+Future Directions in Information Access (FDIA) 2013
+Search Solutions 2012
+SIGIR 2012 Industry Track
+Industry Track Presentations online!
+IIiX 2012
+ECIR 2012 Industry Day
+ECIR 2012
+ECIR 2012 Workshop on Information Retrieval Over Query Sessions (SIR2012)
+IRF Conference 2012
+KONVENS 2012
+NAACL Student Research Workshop and Doctoral Consortium 2012
+EACL 2012 Joint Workshop on Information Retrieval and Hybrid Machine Translation
+LREC 2012 Workshop on Creating Cross-language Resources for Disconnected Languages and Styles
+IEEE/WIC/ACM International Conference on Web Intelligence 2012
+STAIRS 2012
+Search Solutions 2011
+ECIR 2011 Industry Day
+ECIR 2011
+Future Directions in Information Access (FDIA) 2011
+WWW 2011
+IRF Conference 2011
+ACL HLT 2011 Student Session
+ACM Hypertext Workshop on Personalised Multilingual Hypertext Retrieval (PMHR 2011)
+IEEE/WIC/ACM International Conference on Web Intelligence 2011
+Search Solutions 2010
+Read our article in ITNow
+ACM CIKM 2010
+ECIR 2010
+Conference report in SIGIR Forum
+ECIR 2010 Industry Day
+IIiX 2010
+ECAI 2010
+STAIRS 2010
+IRF Conference 2010
+ACL 2010
+ACL 2010 Student Research Workshop
+RANLP 2009
+MinUCS 2009
+ICTIR 2009
+Future Directions in Information Access (FDIA) 2009
+NODALIDA 2009
+Special Issue of the Journal Of Natural Language Engineering on Interactive QA 2009
+Corpus Profiling Workshop 2008
+Information Interaction in Context (IIiX 2008)
+ECML/PKDD Workshop on High-level Information Extraction 2008
+Future Directions in Information Access (FDIA) 2008
+Flatlands 2008
+Essex Language and Computation Group
+ECIR 2008
+SIGIR 2007
+RANLP 2007
+Information Retrieval (CE306/CE706)
+Text Analytics (CE807)
+Dr Mahmoud El-Haj
+Dr M-Dyaa Albakour
+Dr Jon Chamberlain
+Dr Fawaz Alarfaj
+Dr Maha Althobaiti
+David Gundry
+Rob Homewood
+Chris Madge
+Dino Ratcliffe
+Selected Publications
+Foundation and Trends © in Information Retrieval
+"Searching the Enterprise"
+Martin White (IntranetFocus)
+"Intelligent Document Retrieval"
+Informer (Newsletter of the BCS IRSG)
+ACM Computing Reviews
+
+Udo Kruschwitz
+University of Essex
+School of Computer Science and Electronic Engineering
+Wivenhoe
+Colchester
+udo @ essex.ac.uk
+
+
+
+------------Headings from HTML url http://csee.essex.ac.uk/staff/udo/index.html
+Udo Kruschwitz - Research Information
+Research Interests
+Current Projects / Ongoing Collaboration
+Recent Research/Development Projects
+Current/Recent Involvements
+Teaching (2017/18)
+PhD Students (some co-supervised)
+Publications
+
+
+------------Bold tags from HTML url http://csee.essex.ac.uk/staff/udo/index.html
+© The Udo / last change: 29 January 2018
+
+
+------------Retrieved text from HTML url http://csee.essex.ac.uk/staff/udo/index.html
+Udo Kruschwitz - Research Information Research Interests I am a member of the Language and Computation Group (LAC) here at Essex (most recent 16th LAC Day: 5th October 2017; earlier events:15th LAC Day 2016, 14th LAC Day 2015, 13th LAC Day 2014, 12th LAC Day 2013, 11th LAC Day 2012, 10th LAC Day 2011). My research interests are in natural language processing (NLP), information retrieval (IR) and the implementation of such techniques in real applications. The intelligent directory enquiry assistant (YPA) project is an example (going back quite a few years now ...) where the extraction of information from partially structured data together with engineering issues played major roles in making the YPA a usable online system. I am developing techniques that allow the extraction of conceptual information from document collections and the utilization of such knowledge in retrieval tasks. The type of documents can range from Web pages to newspaper articles or other forms of vaguely/partially structured data. For an example application that we had in place with BT's mobile workforce have a look at our log analysis study. Current Projects / Ongoing Collaboration A five-year ESRC Large Grant on Human Rights in the Era of Big Data is now well underway. The Language and Computation Group (Fox/Poesio/Kruschwitz) plays a significant role in this project which also builds on our links with the Minority Rights Group. Watch this space! A Centre for Doctoral Training (CDT) on Intelligent Games and Game Intelligence (IGGI) offering 55 PhD student scholarships over 8 years is being funded by the EPSRC and supported by our 60 industrial partners. The first 12 students were admitted for October 2014, and another 11 in October 2015 and 2016. Our fourth cohort has started in September this year. To find out more explore our students' profiles! The CDT involves the University of York, the University of Essex, Queen Mary, University of London, and Goldsmiths College, University of London. If you want to know more, drop me an email! A three-year Knowledge Transfer Partnership (KTP) project (2014-2017) involving the Minority Rights Group and Essex (Poesio/Kruschwitz) aimed at new systems to support civilian-led monitoring of human-rights violations. The Iraq Ceasefire Portal is one of the major outcomes of the project. The Corpus of Violence Acts in Arabic Social Media is an academic resource, described in more detail in our LREC 2016 paper. A highly successful Knowledge Transfer Partnership (KTP) project (2013-2015) was the starting point for an ongoing collaboration with Signal Media. As the University Lead PI I am pleased that Miguel Martinez-Alvarez who joined us as KTP Associate is now Head of Research at Signal. Here is a timeline of some exciting news in our collaboration: November 2014: Miguel is named a Business Leader of Tomorrow (here is a short video portrait of Miguel ... and more coverage of the event / main actors here). April 2015: Best demo award at ECIR 2015 for Signal demo, and even more exciting: Signal has just announced that it has raised $1.8m growth capital from top tier investors (see Techcrunch). November 2015: Signal project wins Best KTP Partnership Award 2015. February 2016: Project features on InnovateUK's home page again. November 2017: new KTP project confirmed, to start in 2018. Creating anaphorically annotated resources through semantic wikis (AnaWiki) (EPSRC) This project has led to the development of Phrase Detectives, an annotation game aimed at the creation of semantically annotated corpora. The DALI project builds on the findings and lessons learned in PhraseDetectives. Recent Research/Development Projects The SENSEI FP7 project started in November 2013 and finished in November 2016. The one-line aim of the project is to make sense of human-human conversation by, for example, applying advanced natural-language engineering techniques such as anaphora resolution and multi-document summarization. Read about the use of SENSEI technology to predict the Brexit results, or if you prefer to read articles in Polish, have a look at this one. Automatic Adaptation of Knowledge Structures for Assisted Information Seeking (AutoAdapt), a project involving the School of Computer Science and Electronic Engineering, Robert Gordon University Aberdeen and the Open University. This project developed and evaluated methods for adapting automatically constructed domain models to the population of users' search or browsing behaviour. Application and large-scale evaluation of the developed methods in two information seeking scenarios - namely, interactive search and browsing - were the focus of this project. PEBL-AI is a project that follows on from the Patient Experience and Public Engagement Blogs (PEBL) project. PEBL-AI will result in an automated interface between clinical commissioner groups (CCGs) and the communities they serve. Development of a career path framework, a KTP project involving the School of Computer Science and Electronic Engineering and JobServe, the world's first Internet Recruitment Service. Development of an intelligent mail server, a KTP project involving the School of Computer Science and Electronic Engineering and Active Web Solutions (AWS), an Ipswich based company devoted to cutting edge enterprise information systems. Learning Disabilities Data and Information Infrastructure Project (ESRC) Markup-Based Knowledge Extraction Project (EPSRC) Intelligent Directory Enquiry (YPA) Project (BT) Current/Recent Involvements Panel chair of the Karen Spärck Jones Award The 2017 winner has now been announced. It is Fernando Diaz. Congratulations! (Here is the original Call.) (Committee member) ... read more about the IRSG here! Autumn 2017 IRSG newsletter! Text Analytics Meetup in London (Co-organiser) Game AI Meetup in London (Co-organiser) ECIR 2019 (Industry Day Chair) SIGIR 2018 (Programme Committee (full papers + demos)) Games4NLP 2018 at LREC 2018 (Programme Co-Chair) HCOMP 2018 (Programme Committee) ICTIR 2018 (Sponsorship Co-Chair) CHIIR 2018 (Programme Committee) WWW 2018 (Programme Committee, User Modeling/Personalization/Experience Track) WSDM 2018 (Programme Committee) NAACL HLT 2018 (Programme Committee) ECIR 2018 (Senior Programme Committee + Tutorials + Demos) Text2Story'18, workshop at ECIR 2018 (Programme Committee) NewsIR'18, workshop at ECIR 2018 (Programme Committee) LREC 2018 (Scientific Committee) SwissText 2018 (Programme Committee) ISWC 2018 (Programme Committee) Search Solutions 2017 (Co-Organiser) SIGIR 2017 (Programme Committee (full + short papers + demos + tutorials)) + Outstanding Reviewer Award RANLP 2017 (Programme Committee) FDIA 2017 (Programme Committee) AIRS 2017 (Programme Committee (short papers)) Mindtrek 2017 Data-Driven Gamification Design Worksop (Programme Committee) CIKM 2017 (Programme Committee) ISWC 2017 (Programme Committee) Games4NLP 2017 (Programme Committee) ECIR 2017 (Senior Programme Committee + Short Papers + Demos + Industry Day co-chair) WWW 2017 (Programme Committee, User Modeling/Personalization/Experience Track) ESWC 2017 (Co-Chair NLP+IR Track) MultiLing 2017 (Programme Committee) CHIIR 2017 (Programme Committee) MMM 2017 (Programme Committee) Search Solutions 2016 (Co-Organiser) Gamification for Information Retrieval (GamifIR'16), workshop at SIGIR 2016 (Co-Organiser) SIGIR 2016 (Programme Committee (full + short papers + demos)) AIRS 2016 (Programme Committee (short papers)) CIKM 2016 (Programme Committee) Workshop on Accessing Cultural Heritage at Scale at JCDL 2016 (Programme Committee) Workshop on Recent Advances in News Information Retrieval (NewsIR'16) at ECIR 2016 (Co-Organiser) KONVENS 2016 (Reviewing Board) WSDM 2016 (Programme Committee) CHIIR 2016 (Programme Committee) ECIR 2016 (Senior Programme Committee + PC Demos) LREC 2016 (Scientific Committee) ACHS Workshop at JCDL 2016 (Programme Committee) ESWC 2016 (Programme Committee) Search Solutions 2015 (Co-Organiser) MultiLing 2015 (Programme Committee) CIKM 2015 (Programme Committee (IR Track)) AIRS 2015 (Programme Committee) JCDL 2015 (Tutorials Co-Chair) SIGIR 2015 (Programme Committee (full + short papers)) FDIA 2015 (Programme Committee) Gamification for Information Retrieval (GamifIR'15), workshop at ECIR 2015 (Co-Organiser) ECIR 2015 (Senior Programme Committee + Panellist) AAAI 2015 Student Program (Programme Committee) CLEF 2015 News Recommender Challenge (NEWSREEL) (Steering Committee) ESWC 2015 (Programme Committee) ACL 2015 Workshop on Hybrid Approaches to Translation (HyTra) (Programme Committee) RANLP 2015 (Programme Committee) IEEE/WIC/ACM International Conference on Web Intelligence 2015 (Programme Committee) IR 2015 (Programme Committee) Search Solutions 2014 (Co-Organiser) SIGIR 2014 (Programme Committee) SIGIR Symposium on IR in Practice (SIRIP 2014) (Programme Committee) Gamification for Information Retrieval (GamifIR'14), workshop at ECIR 2014 (Co-Organiser) Beyond single-shot text queries: bridging the gap(s) between research communities (MindTheGap'14), workshop at iConference 2014 (Co-Organiser) IIiX 2014 (Programme Committee) IRF Conference 2014 (Programme Committee) ECIR 2014 (Programme Committee) LREC 2014 (Scientific Committee) EACL 2014 Workshop on Hybrid Approaches to Translation (HyTra) (Programme Committee) UMAP 2014 Workshop on Personalised Multilingual Information Access (Programme Committee) CLEF 2014 News Recommender Challenge (NEWSREEL) (Steering Committee) KONVENS 2014 (Reviewing Board) MMM 2014 (Demo Co-Chair) AAAI 2014 Student Program (Programme Committee) IEEE/WIC/ACM International Conference on Web Intelligence 2014 (Programme Committee) Search Solutions 2013 (Co-Organiser) SIGIR 2013 (Short Paper and Demo Co-Chair / Programme Committee) SIGIR 2013 BARS Workshop (Programme Committee) SIGIR 2013 ENRICH Workshop (Programme Committee) RANLP 2013 (Programme Committee) IJCNLP 2013 (Programme Committee) ECIR 2013 (Programme Committee) DIR 2013 (Programme Committee) IRF Conference 2013 (Programme Committee) IEEE/WIC/ACM International Conference on Web Intelligence 2013 (Programme Committee) IR 2013 (Programme Committee) ESWC 2013 (Programme Committee) AAAI 2013 Student Program (Programme Committee) ACL 2013 Workshop on Hybrid Approaches to Translation (HyTra) (Programme Committee) Future Directions in Information Access (FDIA) 2013 (Programme Committee) Search Solutions 2012 (Co-Organiser) SIGIR 2012 Industry Track (Co-Chair) Industry Track Presentations online! IIiX 2012 (Programme Committee) ECIR 2012 Industry Day (Programme Committee) ECIR 2012 (Programme Committee) ECIR 2012 Workshop on Information Retrieval Over Query Sessions (SIR2012) (Programme Committee) IRF Conference 2012 (Programme Committee) KONVENS 2012 (Reviewing Board) NAACL Student Research Workshop and Doctoral Consortium 2012 (Programme Committee) EACL 2012 Joint Workshop on Information Retrieval and Hybrid Machine Translation (Programme Committee) LREC 2012 Workshop on Creating Cross-language Resources for Disconnected Languages and Styles (Programme Committee) IEEE/WIC/ACM International Conference on Web Intelligence 2012 (Programme Committee) STAIRS 2012 (Programme Committee) Search Solutions 2011 (Co-Organiser) ECIR 2011 Industry Day (Co-Chair) ECIR 2011 (Programme Committee) Future Directions in Information Access (FDIA) 2011 (Programme Committee) WWW 2011 (Programme Committee, Content Analysis Track) IRF Conference 2011 (Programme Committee and Invited Panelist) ACL HLT 2011 Student Session (Programme Committee) ACM Hypertext Workshop on Personalised Multilingual Hypertext Retrieval (PMHR 2011) (Programme Committee) IEEE/WIC/ACM International Conference on Web Intelligence 2011 (Programme Committee) Search Solutions 2010 (Co-Organiser) Missed it? Read our article in ITNow ACM CIKM 2010 (Demo Co-Chair) ECIR 2010 (Programme Co-Chair) Missed the conference? Conference report in SIGIR Forum ECIR 2010 Industry Day (Co-Organiser) IIiX 2010 (Programme Committee) ECAI 2010 (Programme Committee) STAIRS 2010 (Programme Committee) IRF Conference 2010 (Programme Committee) ACL 2010 (Programme Committee) ACL 2010 Student Research Workshop (Programme Committee) RANLP 2009 (Programme Committee) MinUCS 2009 (Programme Committee) ICTIR 2009 (Programme Committee) Future Directions in Information Access (FDIA) 2009 (Programme Committee) NODALIDA 2009 (Programme Committee) Special Issue of the Journal Of Natural Language Engineering on Interactive QA 2009 (Guest Editorial Board) Corpus Profiling Workshop 2008; co-located with Information Interaction in Context (IIiX 2008) (Organising Committee) ECML/PKDD Workshop on High-level Information Extraction 2008 (Programme Committee) Future Directions in Information Access (FDIA) 2008 (Programme Committee) Flatlands 2008 (Organising Committee), organised by the Essex Language and Computation Group ECIR 2008 (Programme Committee) SIGIR 2007 (Demonstration Committee) RANLP 2007 (Programme Committee) Teaching (2017/18) Information Retrieval (CE306/CE706) Text Analytics (CE807) PhD Students (some co-supervised) Dr Deirdre Lungley Dr Mahmoud El-Haj Dr M-Dyaa Albakour Dr Suma Adindla Dr Sharhida Saad Dr Azhar Alhindi Dr Jon Chamberlain Dr Roseline Antai Dr Fawaz Alarfaj Dr Maha Althobaiti Dr Silviu Paun Ans Alghamdi David Gundry (external co-supervisor) Rob Homewood (external co-supervisor) Chris Madge Dino Ratcliffe Steve Zimmerman Publications Selected Publications Foundation and Trends © in Information Retrieval Book: "Searching the Enterprise" Review by Martin White (IntranetFocus) Springer Book: "Intelligent Document Retrieval" Review by Informer (Newsletter of the BCS IRSG) Review by ACM Computing Reviews Udo Kruschwitz University of Essex School of Computer Science and Electronic Engineering Wivenhoe Park Colchester CO4 3SQ tel +44-1206-872669 fax +44-1206-872788 email:udo @ essex.ac.uk © 1997-2018 © The Udo / last change: 29 January 2018
+
+
+
+
+------------Breaking text to sentences for tokenisation------------
+Udo Kruschwitz - Research Information Research Interests I am a member of the Language and Computation Group (LAC) here at Essex (most recent 16th LAC Day: 5th October 2017; earlier events:15th LAC Day 2016, 14th LAC Day 2015, 13th LAC Day 2014, 12th LAC Day 2013, 11th LAC Day 2012, 10th LAC Day 2011). 
+My research interests are in natural language processing (NLP), information retrieval (IR) and the implementation of such techniques in real applications. 
+The intelligent directory enquiry assistant (YPA) project is an example (going back quite a few years now ...) where the extraction of information from partially structured data together with engineering issues played major roles in making the YPA a usable online system. 
+I am developing techniques that allow the extraction of conceptual information from document collections and the utilization of such knowledge in retrieval tasks. 
+The type of documents can range from Web pages to newspaper articles or other forms of vaguely/partially structured data. 
+For an example application that we had in place with BT's mobile workforce have a look at our log analysis study. 
+Current Projects / Ongoing Collaboration A five-year ESRC Large Grant on Human Rights in the Era of Big Data is now well underway. 
+The Language and Computation Group (Fox/Poesio/Kruschwitz) plays a significant role in this project which also builds on our links with the Minority Rights Group. 
+Watch this space! 
+A Centre for Doctoral Training (CDT) on Intelligent Games and Game Intelligence (IGGI) offering 55 PhD student scholarships over 8 years is being funded by the EPSRC and supported by our 60 industrial partners. 
+The first 12 students were admitted for October 2014, and another 11 in October 2015 and 2016. 
+Our fourth cohort has started in September this year. 
+To find out more explore our students' profiles! 
+The CDT involves the University of York, the University of Essex, Queen Mary, University of London, and Goldsmiths College, University of London. 
+If you want to know more, drop me an email! 
+A three-year Knowledge Transfer Partnership (KTP) project (2014-2017) involving the Minority Rights Group and Essex (Poesio/Kruschwitz) aimed at new systems to support civilian-led monitoring of human-rights violations. 
+The Iraq Ceasefire Portal is one of the major outcomes of the project. 
+The Corpus of Violence Acts in Arabic Social Media is an academic resource, described in more detail in our LREC 2016 paper. 
+A highly successful Knowledge Transfer Partnership (KTP) project (2013-2015) was the starting point for an ongoing collaboration with Signal Media. 
+As the University Lead PI I am pleased that Miguel Martinez-Alvarez who joined us as KTP Associate is now Head of Research at Signal. 
+Here is a timeline of some exciting news in our collaboration: November 2014: Miguel is named a Business Leader of Tomorrow (here is a short video portrait of Miguel ... and more coverage of the event / main actors here). 
+April 2015: Best demo award at ECIR 2015 for Signal demo, and even more exciting: Signal has just announced that it has raised $1.8m growth capital from top tier investors (see Techcrunch). 
+November 2015: Signal project wins Best KTP Partnership Award 2015. 
+February 2016: Project features on InnovateUK's home page again. 
+November 2017: new KTP project confirmed, to start in 2018. 
+Creating anaphorically annotated resources through semantic wikis (AnaWiki) (EPSRC) This project has led to the development of Phrase Detectives, an annotation game aimed at the creation of semantically annotated corpora. 
+The DALI project builds on the findings and lessons learned in PhraseDetectives. 
+Recent Research/Development Projects The SENSEI FP7 project started in November 2013 and finished in November 2016. 
+The one-line aim of the project is to make sense of human-human conversation by, for example, applying advanced natural-language engineering techniques such as anaphora resolution and multi-document summarization. 
+Read about the use of SENSEI technology to predict the Brexit results, or if you prefer to read articles in Polish, have a look at this one. 
+Automatic Adaptation of Knowledge Structures for Assisted Information Seeking (AutoAdapt), a project involving the School of Computer Science and Electronic Engineering, Robert Gordon University Aberdeen and the Open University. 
+This project developed and evaluated methods for adapting automatically constructed domain models to the population of users' search or browsing behaviour. 
+Application and large-scale evaluation of the developed methods in two information seeking scenarios - namely, interactive search and browsing - were the focus of this project. 
+PEBL-AI is a project that follows on from the Patient Experience and Public Engagement Blogs (PEBL) project. 
+PEBL-AI will result in an automated interface between clinical commissioner groups (CCGs) and the communities they serve. 
+Development of a career path framework, a KTP project involving the School of Computer Science and Electronic Engineering and JobServe, the world's first Internet Recruitment Service. 
+Development of an intelligent mail server, a KTP project involving the School of Computer Science and Electronic Engineering and Active Web Solutions (AWS), an Ipswich based company devoted to cutting edge enterprise information systems. 
+Learning Disabilities Data and Information Infrastructure Project (ESRC) Markup-Based Knowledge Extraction Project (EPSRC) Intelligent Directory Enquiry (YPA) Project (BT) Current/Recent Involvements Panel chair of the Karen Spärck Jones Award The 2017 winner has now been announced. 
+It is Fernando Diaz. 
+Congratulations! 
+(Here is the original Call.) 
+(Committee member) ... read more about the IRSG here! 
+Autumn 2017 IRSG newsletter! 
+Text Analytics Meetup in London (Co-organiser) Game AI Meetup in London (Co-organiser) ECIR 2019 (Industry Day Chair) SIGIR 2018 (Programme Committee (full papers + demos)) Games4NLP 2018 at LREC 2018 (Programme Co-Chair) HCOMP 2018 (Programme Committee) ICTIR 2018 (Sponsorship Co-Chair) CHIIR 2018 (Programme Committee) WWW 2018 (Programme Committee, User Modeling/Personalization/Experience Track) WSDM 2018 (Programme Committee) NAACL HLT 2018 (Programme Committee) ECIR 2018 (Senior Programme Committee + Tutorials + Demos) Text2Story'18, workshop at ECIR 2018 (Programme Committee) NewsIR'18, workshop at ECIR 2018 (Programme Committee) LREC 2018 (Scientific Committee) SwissText 2018 (Programme Committee) ISWC 2018 (Programme Committee) Search Solutions 2017 (Co-Organiser) SIGIR 2017 (Programme Committee (full + short papers + demos + tutorials)) + Outstanding Reviewer Award RANLP 2017 (Programme Committee) FDIA 2017 (Programme Committee) AIRS 2017 (Programme Committee (short papers)) Mindtrek 2017 Data-Driven Gamification Design Worksop (Programme Committee) CIKM 2017 (Programme Committee) ISWC 2017 (Programme Committee) Games4NLP 2017 (Programme Committee) ECIR 2017 (Senior Programme Committee + Short Papers + Demos + Industry Day co-chair) WWW 2017 (Programme Committee, User Modeling/Personalization/Experience Track) ESWC 2017 (Co-Chair NLP+IR Track) MultiLing 2017 (Programme Committee) CHIIR 2017 (Programme Committee) MMM 2017 (Programme Committee) Search Solutions 2016 (Co-Organiser) Gamification for Information Retrieval (GamifIR'16), workshop at SIGIR 2016 (Co-Organiser) SIGIR 2016 (Programme Committee (full + short papers + demos)) AIRS 2016 (Programme Committee (short papers)) CIKM 2016 (Programme Committee) Workshop on Accessing Cultural Heritage at Scale at JCDL 2016 (Programme Committee) Workshop on Recent Advances in News Information Retrieval (NewsIR'16) at ECIR 2016 (Co-Organiser) KONVENS 2016 (Reviewing Board) WSDM 2016 (Programme Committee) CHIIR 2016 (Programme Committee) ECIR 2016 (Senior Programme Committee + PC Demos) LREC 2016 (Scientific Committee) ACHS Workshop at JCDL 2016 (Programme Committee) ESWC 2016 (Programme Committee) Search Solutions 2015 (Co-Organiser) MultiLing 2015 (Programme Committee) CIKM 2015 (Programme Committee (IR Track)) AIRS 2015 (Programme Committee) JCDL 2015 (Tutorials Co-Chair) SIGIR 2015 (Programme Committee (full + short papers)) FDIA 2015 (Programme Committee) Gamification for Information Retrieval (GamifIR'15), workshop at ECIR 2015 (Co-Organiser) ECIR 2015 (Senior Programme Committee + Panellist) AAAI 2015 Student Program (Programme Committee) CLEF 2015 News Recommender Challenge (NEWSREEL) (Steering Committee) ESWC 2015 (Programme Committee) ACL 2015 Workshop on Hybrid Approaches to Translation (HyTra) (Programme Committee) RANLP 2015 (Programme Committee) IEEE/WIC/ACM International Conference on Web Intelligence 2015 (Programme Committee) IR 2015 (Programme Committee) Search Solutions 2014 (Co-Organiser) SIGIR 2014 (Programme Committee) SIGIR Symposium on IR in Practice (SIRIP 2014) (Programme Committee) Gamification for Information Retrieval (GamifIR'14), workshop at ECIR 2014 (Co-Organiser) Beyond single-shot text queries: bridging the gap(s) between research communities (MindTheGap'14), workshop at iConference 2014 (Co-Organiser) IIiX 2014 (Programme Committee) IRF Conference 2014 (Programme Committee) ECIR 2014 (Programme Committee) LREC 2014 (Scientific Committee) EACL 2014 Workshop on Hybrid Approaches to Translation (HyTra) (Programme Committee) UMAP 2014 Workshop on Personalised Multilingual Information Access (Programme Committee) CLEF 2014 News Recommender Challenge (NEWSREEL) (Steering Committee) KONVENS 2014 (Reviewing Board) MMM 2014 (Demo Co-Chair) AAAI 2014 Student Program (Programme Committee) IEEE/WIC/ACM International Conference on Web Intelligence 2014 (Programme Committee) Search Solutions 2013 (Co-Organiser) SIGIR 2013 (Short Paper and Demo Co-Chair / Programme Committee) SIGIR 2013 BARS Workshop (Programme Committee) SIGIR 2013 ENRICH Workshop (Programme Committee) RANLP 2013 (Programme Committee) IJCNLP 2013 (Programme Committee) ECIR 2013 (Programme Committee) DIR 2013 (Programme Committee) IRF Conference 2013 (Programme Committee) IEEE/WIC/ACM International Conference on Web Intelligence 2013 (Programme Committee) IR 2013 (Programme Committee) ESWC 2013 (Programme Committee) AAAI 2013 Student Program (Programme Committee) ACL 2013 Workshop on Hybrid Approaches to Translation (HyTra) (Programme Committee) Future Directions in Information Access (FDIA) 2013 (Programme Committee) Search Solutions 2012 (Co-Organiser) SIGIR 2012 Industry Track (Co-Chair) Industry Track Presentations online! 
+IIiX 2012 (Programme Committee) ECIR 2012 Industry Day (Programme Committee) ECIR 2012 (Programme Committee) ECIR 2012 Workshop on Information Retrieval Over Query Sessions (SIR2012) (Programme Committee) IRF Conference 2012 (Programme Committee) KONVENS 2012 (Reviewing Board) NAACL Student Research Workshop and Doctoral Consortium 2012 (Programme Committee) EACL 2012 Joint Workshop on Information Retrieval and Hybrid Machine Translation (Programme Committee) LREC 2012 Workshop on Creating Cross-language Resources for Disconnected Languages and Styles (Programme Committee) IEEE/WIC/ACM International Conference on Web Intelligence 2012 (Programme Committee) STAIRS 2012 (Programme Committee) Search Solutions 2011 (Co-Organiser) ECIR 2011 Industry Day (Co-Chair) ECIR 2011 (Programme Committee) Future Directions in Information Access (FDIA) 2011 (Programme Committee) WWW 2011 (Programme Committee, Content Analysis Track) IRF Conference 2011 (Programme Committee and Invited Panelist) ACL HLT 2011 Student Session (Programme Committee) ACM Hypertext Workshop on Personalised Multilingual Hypertext Retrieval (PMHR 2011) (Programme Committee) IEEE/WIC/ACM International Conference on Web Intelligence 2011 (Programme Committee) Search Solutions 2010 (Co-Organiser) Missed it? 
+Read our article in ITNow ACM CIKM 2010 (Demo Co-Chair) ECIR 2010 (Programme Co-Chair) Missed the conference? 
+Conference report in SIGIR Forum ECIR 2010 Industry Day (Co-Organiser) IIiX 2010 (Programme Committee) ECAI 2010 (Programme Committee) STAIRS 2010 (Programme Committee) IRF Conference 2010 (Programme Committee) ACL 2010 (Programme Committee) ACL 2010 Student Research Workshop (Programme Committee) RANLP 2009 (Programme Committee) MinUCS 2009 (Programme Committee) ICTIR 2009 (Programme Committee) Future Directions in Information Access (FDIA) 2009 (Programme Committee) NODALIDA 2009 (Programme Committee) Special Issue of the Journal Of Natural Language Engineering on Interactive QA 2009 (Guest Editorial Board) Corpus Profiling Workshop 2008; co-located with Information Interaction in Context (IIiX 2008) (Organising Committee) ECML/PKDD Workshop on High-level Information Extraction 2008 (Programme Committee) Future Directions in Information Access (FDIA) 2008 (Programme Committee) Flatlands 2008 (Organising Committee), organised by the Essex Language and Computation Group ECIR 2008 (Programme Committee) SIGIR 2007 (Demonstration Committee) RANLP 2007 (Programme Committee) Teaching (2017/18) Information Retrieval (CE306/CE706) Text Analytics (CE807) PhD Students (some co-supervised) Dr Deirdre Lungley Dr Mahmoud El-Haj Dr M-Dyaa Albakour Dr Suma Adindla Dr Sharhida Saad Dr Azhar Alhindi Dr Jon Chamberlain Dr Roseline Antai Dr Fawaz Alarfaj Dr Maha Althobaiti Dr Silviu Paun Ans Alghamdi David Gundry (external co-supervisor) Rob Homewood (external co-supervisor) Chris Madge Dino Ratcliffe Steve Zimmerman Publications Selected Publications Foundation and Trends © in Information Retrieval Book: "Searching the Enterprise" Review by Martin White (IntranetFocus) Springer Book: "Intelligent Document Retrieval" Review by Informer (Newsletter of the BCS IRSG) Review by ACM Computing Reviews Udo Kruschwitz University of Essex School of Computer Science and Electronic Engineering Wivenhoe Park Colchester CO4 3SQ tel +44-1206-872669 fax +44-1206-872788 email:udo @ essex.ac.uk © 1997-2018 © The Udo / last change: 29 January 2018
+
+
+------------Tokenised words------------
+udo, kruschwitz, research, information, research, interests, i, am, a, member, of, the, language, and, computation, group, lac, here, at, essex, most, recent, 16th, lac, day, 5th, october, 2017, earlier, events, 15th, lac, day, 2016, 14th, lac, day, 2015, 13th, lac, day, 2014, 12th, lac, day, 2013, 11th, lac, day, 2012, 10th, lac, day, 2011, my, research, interests, are, in, natural, language, processing, nlp, information, retrieval, ir, and, the, implementation, of, such, techniques, in, real, applications, the, intelligent, directory, enquiry, assistant, ypa, project, is, an, example, going, back, quite, a, few, years, now, where, the, extraction, of, information, from, partially, structured, data, together, with, engineering, issues, played, major, roles, in, making, the, ypa, a, usable, online, system, i, am, developing, techniques, that, allow, the, extraction, of, conceptual, information, from, document, collections, and, the, utilization, of, such, knowledge, in, retrieval, tasks, the, type, of, documents, can, range, from, web, pages, to, newspaper, articles, or, other, forms, of, vaguely, partially, structured, data, for, an, example, application, that, we, had, in, place, with, bt, s, mobile, workforce, have, a, look, at, our, log, analysis, study, current, projects, ongoing, collaboration, a, five, year, esrc, large, grant, on, human, rights, in, the, era, of, big, data, is, now, well, underway, the, language, and, computation, group, fox, poesio, kruschwitz, plays, a, significant, role, in, this, project, which, also, builds, on, our, links, with, the, minority, rights, group, watch, this, space, a, centre, for, doctoral, training, cdt, on, intelligent, games, and, game, intelligence, iggi, offering, 55, phd, student, scholarships, over, 8, years, is, being, funded, by, the, epsrc, and, supported, by, our, 60, industrial, partners, the, first, 12, students, were, admitted, for, october, 2014, and, another, 11, in, october, 2015, and, 2016, our, fourth, cohort, has, started, in, september, this, year, to, find, out, more, explore, our, students, profiles, the, cdt, involves, the, university, of, york, the, university, of, essex, queen, mary, university, of, london, and, goldsmiths, college, university, of, london, if, you, want, to, know, more, drop, me, an, email, a, three, year, knowledge, transfer, partnership, ktp, project, 2014, 2017, involving, the, minority, rights, group, and, essex, poesio, kruschwitz, aimed, at, new, systems, to, support, civilian, led, monitoring, of, human, rights, violations, the, iraq, ceasefire, portal, is, one, of, the, major, outcomes, of, the, project, the, corpus, of, violence, acts, in, arabic, social, media, is, an, academic, resource, described, in, more, detail, in, our, lrec, 2016, paper, a, highly, successful, knowledge, transfer, partnership, ktp, project, 2013, 2015, was, the, starting, point, for, an, ongoing, collaboration, with, signal, media, as, the, university, lead, pi, i, am, pleased, that, miguel, martinez, alvarez, who, joined, us, as, ktp, associate, is, now, head, of, research, at, signal, here, is, a, timeline, of, some, exciting, news, in, our, collaboration, november, 2014, miguel, is, named, a, business, leader, of, tomorrow, here, is, a, short, video, portrait, of, miguel, and, more, coverage, of, the, event, main, actors, here, april, 2015, best, demo, award, at, ecir, 2015, for, signal, demo, and, even, more, exciting, signal, has, just, announced, that, it, has, raised, 1, 8m, growth, capital, from, top, tier, investors, see, techcrunch, november, 2015, signal, project, wins, best, ktp, partnership, award, 2015, february, 2016, project, features, on, innovateuk, s, home, page, again, november, 2017, new, ktp, project, confirmed, to, start, in, 2018, creating, anaphorically, annotated, resources, through, semantic, wikis, anawiki, epsrc, this, project, has, led, to, the, development, of, phrase, detectives, an, annotation, game, aimed, at, the, creation, of, semantically, annotated, corpora, the, dali, project, builds, on, the, findings, and, lessons, learned, in, phrasedetectives, recent, research, development, projects, the, sensei, fp7, project, started, in, november, 2013, and, finished, in, november, 2016, the, one, line, aim, of, the, project, is, to, make, sense, of, human, human, conversation, by, for, example, applying, advanced, natural, language, engineering, techniques, such, as, anaphora, resolution, and, multi, document, summarization, read, about, the, use, of, sensei, technology, to, predict, the, brexit, results, or, if, you, prefer, to, read, articles, in, polish, have, a, look, at, this, one, automatic, adaptation, of, knowledge, structures, for, assisted, information, seeking, autoadapt, a, project, involving, the, school, of, computer, science, and, electronic, engineering, robert, gordon, university, aberdeen, and, the, open, university, this, project, developed, and, evaluated, methods, for, adapting, automatically, constructed, domain, models, to, the, population, of, users, search, or, browsing, behaviour, application, and, large, scale, evaluation, of, the, developed, methods, in, two, information, seeking, scenarios, namely, interactive, search, and, browsing, were, the, focus, of, this, project, pebl, ai, is, a, project, that, follows, on, from, the, patient, experience, and, public, engagement, blogs, pebl, project, pebl, ai, will, result, in, an, automated, interface, between, clinical, commissioner, groups, ccgs, and, the, communities, they, serve, development, of, a, career, path, framework, a, ktp, project, involving, the, school, of, computer, science, and, electronic, engineering, and, jobserve, the, world, s, first, internet, recruitment, service, development, of, an, intelligent, mail, server, a, ktp, project, involving, the, school, of, computer, science, and, electronic, engineering, and, active, web, solutions, aws, an, ipswich, based, company, devoted, to, cutting, edge, enterprise, information, systems, learning, disabilities, data, and, information, infrastructure, project, esrc, markup, based, knowledge, extraction, project, epsrc, intelligent, directory, enquiry, ypa, project, bt, current, recent, involvements, panel, chair, of, the, karen, sp, rck, jones, award, the, 2017, winner, has, now, been, announced, it, is, fernando, diaz, congratulations, here, is, the, original, call, committee, member, read, more, about, the, irsg, here, autumn, 2017, irsg, newsletter, text, analytics, meetup, in, london, co, organiser, game, ai, meetup, in, london, co, organiser, ecir, 2019, industry, day, chair, sigir, 2018, programme, committee, full, papers, demos, games4nlp, 2018, at, lrec, 2018, programme, co, chair, hcomp, 2018, programme, committee, ictir, 2018, sponsorship, co, chair, chiir, 2018, programme, committee, www, 2018, programme, committee, user, modeling, personalization, experience, track, wsdm, 2018, programme, committee, naacl, hlt, 2018, programme, committee, ecir, 2018, senior, programme, committee, tutorials, demos, text2story, 18, workshop, at, ecir, 2018, programme, committee, newsir, 18, workshop, at, ecir, 2018, programme, committee, lrec, 2018, scientific, committee, swisstext, 2018, programme, committee, iswc, 2018, programme, committee, search, solutions, 2017, co, organiser, sigir, 2017, programme, committee, full, short, papers, demos, tutorials, outstanding, reviewer, award, ranlp, 2017, programme, committee, fdia, 2017, programme, committee, airs, 2017, programme, committee, short, papers, mindtrek, 2017, data, driven, gamification, design, worksop, programme, committee, cikm, 2017, programme, committee, iswc, 2017, programme, committee, games4nlp, 2017, programme, committee, ecir, 2017, senior, programme, committee, short, papers, demos, industry, day, co, chair, www, 2017, programme, committee, user, modeling, personalization, experience, track, eswc, 2017, co, chair, nlp, ir, track, multiling, 2017, programme, committee, chiir, 2017, programme, committee, mmm, 2017, programme, committee, search, solutions, 2016, co, organiser, gamification, for, information, retrieval, gamifir, 16, workshop, at, sigir, 2016, co, organiser, sigir, 2016, programme, committee, full, short, papers, demos, airs, 2016, programme, committee, short, papers, cikm, 2016, programme, committee, workshop, on, accessing, cultural, heritage, at, scale, at, jcdl, 2016, programme, committee, workshop, on, recent, advances, in, news, information, retrieval, newsir, 16, at, ecir, 2016, co, organiser, konvens, 2016, reviewing, board, wsdm, 2016, programme, committee, chiir, 2016, programme, committee, ecir, 2016, senior, programme, committee, pc, demos, lrec, 2016, scientific, committee, achs, workshop, at, jcdl, 2016, programme, committee, eswc, 2016, programme, committee, search, solutions, 2015, co, organiser, multiling, 2015, programme, committee, cikm, 2015, programme, committee, ir, track, airs, 2015, programme, committee, jcdl, 2015, tutorials, co, chair, sigir, 2015, programme, committee, full, short, papers, fdia, 2015, programme, committee, gamification, for, information, retrieval, gamifir, 15, workshop, at, ecir, 2015, co, organiser, ecir, 2015, senior, programme, committee, panellist, aaai, 2015, student, program, programme, committee, clef, 2015, news, recommender, challenge, newsreel, steering, committee, eswc, 2015, programme, committee, acl, 2015, workshop, on, hybrid, approaches, to, translation, hytra, programme, committee, ranlp, 2015, programme, committee, ieee, wic, acm, international, conference, on, web, intelligence, 2015, programme, committee, ir, 2015, programme, committee, search, solutions, 2014, co, organiser, sigir, 2014, programme, committee, sigir, symposium, on, ir, in, practice, sirip, 2014, programme, committee, gamification, for, information, retrieval, gamifir, 14, workshop, at, ecir, 2014, co, organiser, beyond, single, shot, text, queries, bridging, the, gap, s, between, research, communities, mindthegap, 14, workshop, at, iconference, 2014, co, organiser, iiix, 2014, programme, committee, irf, conference, 2014, programme, committee, ecir, 2014, programme, committee, lrec, 2014, scientific, committee, eacl, 2014, workshop, on, hybrid, approaches, to, translation, hytra, programme, committee, umap, 2014, workshop, on, personalised, multilingual, information, access, programme, committee, clef, 2014, news, recommender, challenge, newsreel, steering, committee, konvens, 2014, reviewing, board, mmm, 2014, demo, co, chair, aaai, 2014, student, program, programme, committee, ieee, wic, acm, international, conference, on, web, intelligence, 2014, programme, committee, search, solutions, 2013, co, organiser, sigir, 2013, short, paper, and, demo, co, chair, programme, committee, sigir, 2013, bars, workshop, programme, committee, sigir, 2013, enrich, workshop, programme, committee, ranlp, 2013, programme, committee, ijcnlp, 2013, programme, committee, ecir, 2013, programme, committee, dir, 2013, programme, committee, irf, conference, 2013, programme, committee, ieee, wic, acm, international, conference, on, web, intelligence, 2013, programme, committee, ir, 2013, programme, committee, eswc, 2013, programme, committee, aaai, 2013, student, program, programme, committee, acl, 2013, workshop, on, hybrid, approaches, to, translation, hytra, programme, committee, future, directions, in, information, access, fdia, 2013, programme, committee, search, solutions, 2012, co, organiser, sigir, 2012, industry, track, co, chair, industry, track, presentations, online, iiix, 2012, programme, committee, ecir, 2012, industry, day, programme, committee, ecir, 2012, programme, committee, ecir, 2012, workshop, on, information, retrieval, over, query, sessions, sir2012, programme, committee, irf, conference, 2012, programme, committee, konvens, 2012, reviewing, board, naacl, student, research, workshop, and, doctoral, consortium, 2012, programme, committee, eacl, 2012, joint, workshop, on, information, retrieval, and, hybrid, machine, translation, programme, committee, lrec, 2012, workshop, on, creating, cross, language, resources, for, disconnected, languages, and, styles, programme, committee, ieee, wic, acm, international, conference, on, web, intelligence, 2012, programme, committee, stairs, 2012, programme, committee, search, solutions, 2011, co, organiser, ecir, 2011, industry, day, co, chair, ecir, 2011, programme, committee, future, directions, in, information, access, fdia, 2011, programme, committee, www, 2011, programme, committee, content, analysis, track, irf, conference, 2011, programme, committee, and, invited, panelist, acl, hlt, 2011, student, session, programme, committee, acm, hypertext, workshop, on, personalised, multilingual, hypertext, retrieval, pmhr, 2011, programme, committee, ieee, wic, acm, international, conference, on, web, intelligence, 2011, programme, committee, search, solutions, 2010, co, organiser, missed, it, read, our, article, in, itnow, acm, cikm, 2010, demo, co, chair, ecir, 2010, programme, co, chair, missed, the, conference, conference, report, in, sigir, forum, ecir, 2010, industry, day, co, organiser, iiix, 2010, programme, committee, ecai, 2010, programme, committee, stairs, 2010, programme, committee, irf, conference, 2010, programme, committee, acl, 2010, programme, committee, acl, 2010, student, research, workshop, programme, committee, ranlp, 2009, programme, committee, minucs, 2009, programme, committee, ictir, 2009, programme, committee, future, directions, in, information, access, fdia, 2009, programme, committee, nodalida, 2009, programme, committee, special, issue, of, the, journal, of, natural, language, engineering, on, interactive, qa, 2009, guest, editorial, board, corpus, profiling, workshop, 2008, co, located, with, information, interaction, in, context, iiix, 2008, organising, committee, ecml, pkdd, workshop, on, high, level, information, extraction, 2008, programme, committee, future, directions, in, information, access, fdia, 2008, programme, committee, flatlands, 2008, organising, committee, organised, by, the, essex, language, and, computation, group, ecir, 2008, programme, committee, sigir, 2007, demonstration, committee, ranlp, 2007, programme, committee, teaching, 2017, 18, information, retrieval, ce306, ce706, text, analytics, ce807, phd, students, some, co, supervised, dr, deirdre, lungley, dr, mahmoud, el, haj, dr, m, dyaa, albakour, dr, suma, adindla, dr, sharhida, saad, dr, azhar, alhindi, dr, jon, chamberlain, dr, roseline, antai, dr, fawaz, alarfaj, dr, maha, althobaiti, dr, silviu, paun, ans, alghamdi, david, gundry, external, co, supervisor, rob, homewood, external, co, supervisor, chris, madge, dino, ratcliffe, steve, zimmerman, publications, selected, publications, foundation, and, trends, in, information, retrieval, book, searching, the, enterprise, review, by, martin, white, intranetfocus, springer, book, intelligent, document, retrieval, review, by, informer, newsletter, of, the, bcs, irsg, review, by, acm, computing, reviews, udo, kruschwitz, university, of, essex, school, of, computer, science, and, electronic, engineering, wivenhoe, park, colchester, co4, 3sq, tel, 44, 1206, 872669, fax, 44, 1206, 872788, email, udo, essex, ac, uk, 1997, 2018, the, udo, last, change, 29, january, 2018, 
+
+
+
+------------Removing bold words in body text------------
+informer, 1, 
+
+------------Removing href text from body text------------
+home, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, committee, about, about, bcs, ecir, ecir, ecir, ecir, ecir, ecir, ecir, ecir, ecir, ecir, ecir, ecir, ecir, ecir, ecir, ecir, ecir, ecir, ecir, ecir, ecir, award, award, award, award, search, search, search, search, search, search, search, search, search, search, industry, industry, industry, industry, industry, industry, industry, solutions, solutions, solutions, solutions, solutions, solutions, solutions, solutions, solutions, groups, resources, resources, by, by, by, by, by, by, by, irsg, irsg, irsg, events, to, to, to, to, to, to, to, to, to, to, to, to, to, to, at, at, at, at, at, at, at, at, at, at, at, at, at, at, at, at, at, at, 2018, 2018, 2018, 2018, 2018, 2018, 2018, 2018, 2018, 2018, 2018, 2018, 2018, 2018, 2018, 2018, 2018, 2018, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, 2017, 2017, 2017, 2017, 2017, 2017, 2017, 2017, 2017, 2017, 2017, 2017, 2017, 2017, 2017, 2017, 2017, 2017, 2017, 2017, 2017, 2016, 2016, 2016, 2016, 2016, 2016, 2016, 2016, 2016, 2016, 2016, 2016, 2016, 2016, 2016, 2016, 2016, 2016, 2016, 2015, 2015, 2015, 2015, 2015, 2015, 2015, 2015, 2015, 2015, 2015, 2015, 2015, 2015, 2015, 2015, 2015, 2015, 2015, 2015, 2015, 2015, 2015, here, here, here, here, here, here, 2009, 2009, 2009, 2009, 2009, 2009, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, language, language, language, language, language, language, language, computation, computation, computation, group, group, group, group, group, lac, lac, lac, lac, lac, lac, lac, lac, 16th, day, day, day, day, day, day, day, day, day, day, day, day, 15th, 14th, 13th, 2014, 2014, 2014, 2014, 2014, 2014, 2014, 2014, 2014, 2014, 2014, 2014, 2014, 2014, 2014, 2014, 2014, 2014, 2014, 2014, 12th, 2013, 2013, 2013, 2013, 2013, 2013, 2013, 2013, 2013, 2013, 2013, 2013, 2013, 2013, 2013, 2013, 2013, 2013, 11th, 2012, 2012, 2012, 2012, 2012, 2012, 2012, 2012, 2012, 2012, 2012, 2012, 2012, 2012, 10th, 2011, 2011, 2011, 2011, 2011, 2011, 2011, 2011, 2011, 2011, intelligent, intelligent, intelligent, intelligent, intelligent, directory, directory, enquiry, enquiry, assistant, ypa, ypa, ypa, project, project, project, project, project, project, project, project, project, project, project, project, project, project, project, project, project, project, project, project, project, project, extraction, extraction, extraction, extraction, of, of, of, of, of, of, of, of, of, of, of, of, of, of, of, of, of, of, of, of, of, of, of, of, of, of, of, of, of, of, of, of, of, of, of, of, of, of, of, of, of, conceptual, information, information, information, information, information, information, information, information, information, information, information, information, information, information, information, information, information, information, information, information, information, information, information, bt, bt, s, s, s, s, mobile, workforce, log, analysis, analysis, study, minority, minority, rights, rights, rights, rights, games, game, game, game, intelligence, intelligence, intelligence, intelligence, intelligence, intelligence, iggi, explore, our, our, our, our, our, our, our, our, students, students, students, profiles, iraq, ceasefire, portal, corpus, corpus, violence, acts, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, arabic, social, media, media, lrec, lrec, lrec, lrec, lrec, lrec, paper, paper, signal, signal, signal, signal, signal, miguel, miguel, miguel, martinez, alvarez, business, leader, tomorrow, video, portrait, techcrunch, best, best, ktp, ktp, ktp, ktp, ktp, ktp, ktp, partnership, partnership, partnership, innovateuk, page, creating, creating, anaphorically, annotated, annotated, through, semantic, wikis, anawiki, epsrc, epsrc, epsrc, phrase, detectives, dali, sensei, sensei, fp7, brexit, results, this, this, this, this, this, this, this, one, one, one, autoadapt, robert, gordon, university, university, university, university, university, university, university, university, aberdeen, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, open, patient, experience, experience, experience, public, engagement, blogs, pebl, pebl, jobserve, mail, server, learning, disabilities, data, data, data, data, data, infrastructure, esrc, esrc, markup, based, based, knowledge, knowledge, knowledge, knowledge, knowledge, panel, chair, chair, chair, chair, chair, chair, chair, chair, chair, chair, chair, chair, chair, the, karen, sp, rck, jones, fernando, diaz, is, is, is, is, is, is, is, is, is, is, is, is, is, original, call, autumn, newsletter, newsletter, text, text, text, analytics, analytics, meetup, meetup, london, london, london, london, ai, ai, ai, 2019, sigir, sigir, sigir, sigir, sigir, sigir, sigir, sigir, sigir, sigir, sigir, sigir, sigir, games4nlp, games4nlp, hcomp, ictir, ictir, chiir, chiir, chiir, www, www, www, wsdm, wsdm, naacl, naacl, hlt, hlt, text2story, 18, 18, 18, newsir, newsir, swisstext, iswc, iswc, outstanding, reviewer, ranlp, ranlp, ranlp, ranlp, ranlp, fdia, fdia, fdia, fdia, fdia, fdia, airs, airs, airs, mindtrek, driven, gamification, gamification, gamification, gamification, design, worksop, cikm, cikm, cikm, cikm, eswc, eswc, eswc, eswc, multiling, multiling, mmm, mmm, for, for, for, for, for, for, for, for, for, for, for, for, retrieval, retrieval, retrieval, retrieval, retrieval, retrieval, retrieval, retrieval, retrieval, retrieval, retrieval, retrieval, gamifir, gamifir, gamifir, 16, 16, workshop, workshop, workshop, workshop, workshop, workshop, workshop, workshop, workshop, workshop, workshop, workshop, workshop, workshop, workshop, workshop, workshop, workshop, workshop, workshop, workshop, workshop, workshop, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on, accessing, cultural, heritage, scale, scale, recent, recent, recent, recent, advances, news, news, news, news, konvens, konvens, konvens, achs, jcdl, jcdl, jcdl, 15, aaai, aaai, aaai, student, student, student, student, student, student, student, program, program, program, clef, clef, recommender, recommender, challenge, challenge, newsreel, newsreel, acl, acl, acl, acl, acl, hybrid, hybrid, hybrid, hybrid, approaches, approaches, approaches, translation, translation, translation, translation, hytra, hytra, hytra, ieee, ieee, ieee, ieee, ieee, wic, wic, wic, wic, wic, acm, acm, acm, acm, acm, acm, acm, acm, international, international, international, international, international, conference, conference, conference, conference, conference, conference, conference, conference, conference, conference, conference, web, web, web, web, web, web, web, ir, ir, ir, ir, ir, ir, symposium, practice, sirip, 14, 14, mindthegap, iconference, iiix, iiix, iiix, iiix, irf, irf, irf, irf, irf, conference, eacl, eacl, umap, personalised, personalised, multilingual, multilingual, access, access, access, access, access, bars, enrich, ijcnlp, dir, future, future, future, future, directions, directions, directions, directions, track, track, track, track, track, track, track, presentations, online, online, over, over, query, sessions, sir2012, research, research, research, research, research, research, research, doctoral, doctoral, consortium, joint, machine, cross, disconnected, languages, styles, stairs, stairs, session, hypertext, hypertext, pmhr, 2010, 2010, 2010, 2010, 2010, 2010, 2010, 2010, 2010, 2010, read, read, read, read, article, itnow, report, forum, ecai, research, minucs, nodalida, special, issue, journal, natural, natural, natural, engineering, engineering, engineering, engineering, engineering, engineering, engineering, interactive, interactive, qa, profiling, 2008, 2008, 2008, 2008, 2008, 2008, interaction, context, ecml, pkdd, high, level, flatlands, essex, essex, essex, essex, essex, essex, 2007, 2007, ce306, ce706, ce807, dr, dr, dr, dr, dr, dr, dr, dr, dr, dr, dr, mahmoud, el, haj, m, dyaa, albakour, jon, chamberlain, fawaz, alarfaj, maha, althobaiti, david, gundry, rob, homewood, chris, madge, dino, ratcliffe, selected, publications, foundation, trends, searching, enterprise, enterprise, martin, white, intranetfocus, document, document, document, computing, reviews, udo, udo, udo, udo, kruschwitz, kruschwitz, kruschwitz, kruschwitz, school, school, school, school, computer, computer, computer, computer, science, science, science, science, electronic, electronic, electronic, electronic, wivenhoe, colchester, ac, uk, 
+
+------------After removing stopwords------------
+interests, member, 5th, october, earlier, interests, processing, nlp, implementation, techniques, real, applications, example, going, back, quite, years, now, partially, structured, together, issues, played, major, roles, making, usable, system, developing, techniques, allow, collections, utilization, tasks, type, documents, can, range, pages, newspaper, articles, forms, vaguely, partially, structured, example, application, place, look, current, projects, ongoing, collaboration, five, year, large, grant, human, era, big, now, well, underway, fox, poesio, plays, significant, role, also, builds, links, watch, space, centre, training, cdt, offering, 55, phd, scholarships, 8, years, funded, supported, 60, industrial, partners, first, 12, admitted, october, another, 11, october, fourth, cohort, started, september, year, find, cdt, involves, york, queen, mary, goldsmiths, college, want, know, drop, email, three, year, transfer, involving, poesio, aimed, new, systems, support, civilian, led, monitoring, human, violations, major, outcomes, academic, resource, described, detail, highly, successful, transfer, starting, point, ongoing, collaboration, lead, pi, pleased, joined, us, associate, now, head, timeline, exciting, collaboration, november, named, short, coverage, event, main, actors, april, demo, demo, even, exciting, just, announced, raised, 8m, growth, capital, top, tier, investors, see, november, wins, february, features, november, new, confirmed, start, led, development, annotation, aimed, creation, semantically, corpora, builds, findings, lessons, learned, phrasedetectives, development, projects, started, november, finished, november, line, aim, make, sense, human, human, conversation, example, applying, advanced, techniques, anaphora, resolution, multi, summarization, use, technology, predict, prefer, articles, polish, look, automatic, adaptation, structures, assisted, seeking, involving, developed, evaluated, methods, adapting, automatically, constructed, domain, models, population, users, browsing, behaviour, application, large, evaluation, developed, methods, two, seeking, scenarios, namely, browsing, focus, follows, pebl, will, result, automated, interface, clinical, commissioner, ccgs, communities, serve, development, career, path, framework, involving, world, first, internet, recruitment, service, development, involving, active, aws, ipswich, company, devoted, cutting, edge, systems, current, involvements, winner, now, announced, congratulations, member, co, organiser, co, organiser, programme, full, papers, demos, programme, co, programme, sponsorship, co, programme, programme, user, modeling, personalization, programme, programme, senior, programme, tutorials, demos, programme, programme, scientific, programme, programme, co, organiser, programme, full, short, papers, demos, tutorials, programme, programme, programme, short, papers, programme, programme, programme, programme, senior, programme, short, papers, demos, co, programme, user, modeling, personalization, co, nlp, programme, programme, programme, co, organiser, co, organiser, programme, full, short, papers, demos, programme, short, papers, programme, programme, co, organiser, reviewing, board, programme, programme, senior, programme, pc, demos, scientific, programme, programme, co, organiser, programme, programme, programme, tutorials, co, programme, full, short, papers, programme, co, organiser, senior, programme, panellist, programme, steering, programme, programme, programme, programme, programme, co, organiser, programme, programme, co, organiser, beyond, single, shot, queries, bridging, gap, communities, co, organiser, programme, programme, programme, scientific, programme, programme, steering, reviewing, board, demo, co, programme, programme, co, organiser, short, demo, co, programme, programme, programme, programme, programme, programme, programme, programme, programme, programme, programme, programme, programme, programme, co, organiser, co, programme, programme, programme, programme, programme, reviewing, board, programme, programme, programme, programme, programme, co, organiser, co, programme, programme, programme, content, programme, invited, panelist, programme, programme, programme, co, organiser, missed, demo, co, programme, co, missed, co, organiser, programme, programme, programme, programme, programme, programme, programme, programme, programme, programme, programme, guest, editorial, board, co, located, organising, programme, programme, organising, organised, programme, demonstration, programme, teaching, phd, co, supervised, deirdre, lungley, suma, adindla, sharhida, saad, azhar, alhindi, roseline, antai, silviu, paun, ans, alghamdi, external, co, supervisor, external, co, supervisor, steve, zimmerman, publications, book, review, springer, book, review, review, park, co4, 3sq, tel, 44, 1206, 872669, fax, 44, 1206, 872788, email, 1997, last, change, 29, january, 
+
+------------Remaining words after word frequency used to remove unnecessary words------------
+projects, year, led, ongoing, builds, browsing, senior, cdt, example, current, systems, structured, email, started, nlp, collaboration, exciting, partially, 44, november, developed, look, announced, external, involving, full, book, papers, now, human, reviewing, steering, short, articles, modeling, years, review, large, aimed, demos, methods, personalization, member, missed, phd, interests, first, board, communities, major, new, development, transfer, techniques, poesio, october, supervisor, scientific, demo, organising, seeking, 1206, application, tutorials, user, 
+
+------------Choosing heading with NN and NNP tags------------
+Microsoft, BCS, BCS, IRSG, Karen, Sp, rck, Jones, Award, Award, Karen, Sp, rck, Jones, Karen, Sp, rck, Jones, award, Karen, Sp, rck, Jones, award, Recipients, Karen, Sp, rck, Jones, award, Karen, Sp, rck, Jones, award, award, award, award, award, award, panel, members, Udo, Kruschwitz, Research, Information, Research, Interests, Projects, Collaboration, Research, Development, Projects, Involvements, Teaching, PhD, Students, co, Publications, 
+
+------------Choosing bold words with NN and NNP tags------------
+Informer, BCS, IRSG, Fernando, Diaz, Jaime, Teevan, Jordan, Boyd, Graber, Emine, Yilmaz, Ryen, White, Eugene, Agichtein, Diane, Kelly, Evgeniy, Gabrilovich, Mirella, Lapata, Udo, change, January, 
+
+------------POS tagging and word lemmatization and stem------------
+Tag: projects_NNS   Word: projects  Lemma: project  Stem: project
+Tag: year_NN   Word: year  Lemma: year  Stem: year
+Tag: builds_NNS   Word: builds  Lemma: build  Stem: build
+Tag: cdt_NN   Word: cdt  Lemma: cdt  Stem: cdt
+Tag: example_NN   Word: example  Lemma: example  Stem: example
+Tag: systems_NNS   Word: systems  Lemma: system  Stem: system
+Tag: email_NN   Word: email  Lemma: email  Stem: email
+Tag: nlp_NN   Word: nlp  Lemma: nlp  Stem: nlp
+Tag: collaboration_NN   Word: collaboration  Lemma: collaboration  Stem: collaboration
+Tag: november_NNP   Word: november  Lemma: november  Stem: november
+Tag: look_NN   Word: look  Lemma: look  Stem: look
+Tag: book_NN   Word: book  Lemma: book  Stem: book
+Tag: papers_NNS   Word: papers  Lemma: papers  Stem: papers
+Tag: articles_NNS   Word: articles  Lemma: article  Stem: article
+Tag: modeling_NN   Word: modeling  Lemma: modeling  Stem: model
+Tag: years_NNS   Word: years  Lemma: year  Stem: year
+Tag: review_NN   Word: review  Lemma: review  Stem: review
+Tag: demos_NNS   Word: demos  Lemma: demo  Stem: demo
+Tag: methods_NNS   Word: methods  Lemma: method  Stem: method
+Tag: personalization_NN   Word: personalization  Lemma: personalization  Stem: personalization
+Tag: member_NN   Word: member  Lemma: member  Stem: member
+Tag: phd_NN   Word: phd  Lemma: phd  Stem: phd
+Tag: interests_NNS   Word: interests  Lemma: interest  Stem: interest
+Tag: board_NN   Word: board  Lemma: board  Stem: board
+Tag: communities_NNS   Word: communities  Lemma: community  Stem: community
+Tag: development_NN   Word: development  Lemma: development  Stem: development
+Tag: transfer_NN   Word: transfer  Lemma: transfer  Stem: transfer
+Tag: techniques_NNS   Word: techniques  Lemma: technique  Stem: technique
+Tag: poesio_NN   Word: poesio  Lemma: poesio  Stem: poesio
+Tag: october_NNP   Word: october  Lemma: october  Stem: october
+Tag: supervisor_NN   Word: supervisor  Lemma: supervisor  Stem: supervisor
+Tag: demo_NN   Word: demo  Lemma: demo  Stem: demo
+Tag: application_NN   Word: application  Lemma: application  Stem: application
+Tag: tutorials_NNS   Word: tutorials  Lemma: tutorial  Stem: tutorial
+Tag: user_NN   Word: user  Lemma: user  Stem: user
+
+
+
+
+------------Href text from HTML url https://stanfordnlp.github.io/CoreNLP/ 
+Stanford CoreNLP
+Github repo
+Quick links
+Online demo (Webservice API)
+Online demo (Traditional)
+Maven Central
+NuGet (.NET)
+Other languages/packages
+Paper to cite
+Stack Overflow
+Twitter
+Overview
+About
+Download
+Languages
+License and Citing
+Usage
+Download / Maven
+Migration Guide
+Command line usage
+Stanford CoreNLP API
+Simple CoreNLP API
+Interactive mode (REPL)
+CoreNLP server
+Caseless operation
+On other human languages
+From other languages/packages
+Annotators
+Summary
+Annotator dependencies
+Tokenization
+Sentence Splitting
+Lemmatization
+Parts of Speech
+Named Entity Recognition
+RegexNER (Named Entity Recognition)
+Constituency Parsing
+Dependency Parsing
+Coreference Resolution
+Natural Logic
+Open Information Extraction
+Sentiment
+Relation Extraction
+Quote Annotator
+CleanXML Annotator
+True case Annotator
+Entity Mentions Annotator
+UD Features
+Adding a new annotator
+Additional tools
+TokensRegex
+Bootstrapped surface patterns
+Extensions
+Resources
+FAQ
+Memory and time optimization
+Online demo (API)
+Online demo (old skool)
+Javadoc
+Release history
+Contact
+the part-of-speech (POS) tagger
+the named entity recognizer (NER)
+the parser
+the coreference resolution system
+sentiment analysis
+bootstrapped pattern learning
+open information extraction
+Download CoreNLP 3.9.0
+available on Maven Central
+available on GitHub
+download page
+history page
+download
+download
+download
+download
+download
+download
+download
+other human languages
+command-line
+programmatic API
+simple API
+third party APIs
+web service
+GNU General Public License
+proprietary software
+proprietary software
+commercial licensing
+java-nlp-support@lists.stanford.edu
+this form
+The Stanford CoreNLP Natural Language Processing Toolkit
+pdf
+bib
+POS tagging
+NER
+constituency parsing
+dependency parsing
+coreference resolution
+sentiment
+Open IE
+software pages
+publications page
+
+
+------------Headings from HTML url https://stanfordnlp.github.io/CoreNLP/ 
+Stanford CoreNLP – Natural language software
+About
+Download
+Human languages supported
+Programming languages and operating systems
+License
+Citing Stanford CoreNLP in papers
+
+
+------------Bold tags from HTML url https://stanfordnlp.github.io/CoreNLP/ 
+
+
+
+------------Retrieved text from HTML url https://stanfordnlp.github.io/CoreNLP/ 
+Toggle navigation Stanford CoreNLP Github repo Quick links Online demo (Webservice API) Online demo (Traditional) Maven Central NuGet (.NET) Other languages/packages Paper to cite Stack Overflow Twitter CoreNLP version 3.9.0 Overview About Download Languages License and Citing Usage Download / Maven Migration Guide Command line usage Stanford CoreNLP API Simple CoreNLP API Interactive mode (REPL) CoreNLP server Caseless operation On other human languages From other languages/packages Annotators Summary Annotator dependencies Tokenization Sentence Splitting Lemmatization Parts of Speech Named Entity Recognition RegexNER (Named Entity Recognition) Constituency Parsing Dependency Parsing Coreference Resolution Natural Logic Open Information Extraction Sentiment Relation Extraction Quote Annotator CleanXML Annotator True case Annotator Entity Mentions Annotator UD Features Adding a new annotator Additional tools TokensRegex Bootstrapped surface patterns Extensions Resources FAQ Memory and time optimization Online demo (API) Online demo (old skool) Javadoc Release history Contact Stanford CoreNLP – Natural language software About Stanford CoreNLP provides a set of human language technology tools. It can give the base forms of words, their parts of speech, whether they are names of companies, people, etc., normalize dates, times, and numeric quantities, mark up the structure of sentences in terms of phrases and syntactic dependencies, indicate which noun phrases refer to the same entities, indicate sentiment, extract particular or open-class relations between entity mentions, get the quotes people said, etc. Choose Stanford CoreNLP if you need: An integrated NLP toolkit with a broad range of grammatical analysis tools A fast, robust annotator for arbitrary texts, widely used in production A modern, regularly updated package, with the overall highest quality text analytics Support for a number of major (human) languages Available APIs for most major modern programming languages Ability to run as a simple web service Stanford CoreNLP’s goal is to make it very easy to apply a bunch of linguistic analysis tools to a piece of text. A tool pipeline can be run on a piece of plain text with just two lines of code. CoreNLP is designed to be highly flexible and extensible. With a single option you can change which tools should be enabled and disabled. Stanford CoreNLP integrates many of Stanford’s NLP tools, including the part-of-speech (POS) tagger, the named entity recognizer (NER), the parser, the coreference resolution system, sentiment analysis, bootstrapped pattern learning, and the open information extraction tools. Moreover, an annotator pipeline can include additional custom or third-party annotators. CoreNLP’s analyses provide the foundational building blocks for higher-level and domain-specific text understanding applications. Download Stanford CoreNLP can be downloaded via the link below. This will download a large (~500 MB) zip file containing (1) the CoreNLP code jar, (2) the CoreNLP models jar (required in your classpath for most tasks), (3) the libraries required to run CoreNLP, and (4) documentation / source code for the project. Unzip this file, open the folder that results and you’re ready to use it. Download CoreNLP 3.9.0 Alternatively, Stanford CoreNLP is available on Maven Central. Source is available on GitHub. For more information on obtaining CoreNLP, see the download page. To download earlier versions of Stanford CoreNLP or language packs for earlier versions, go to the history page. The table below has jars for the current release with all the models for each language we support. Due to size issues we have divided the English resources into two jars. The English (KBP) models jar contains extra resources needed to run relation extraction and entity linking. Language model jar version Arabic download 3.9.0 Chinese download 3.9.0 English download 3.9.0 English (KBP) download 3.9.0 French download 3.9.0 German download 3.9.0 Spanish download 3.9.0 Human languages supported The basic distribution provides model files for the analysis of well-edited English, but the engine is compatible with models for other languages. In the table above, we provide packaged models for Arabic, Chinese, French, German, and Spanish. We also provide two jars that contain all of our English models, which include various variant models, and in particular models optimized for working with uncased English (e.g., mostly or all either uppercase or lowercase). There is also some third party support for additional languages (and we would welcome more!). You can find out more about using CoreNLP with various human languages on the other human languages page. Programming languages and operating systems Stanford CoreNLP is written in Java; recent releases require Java 1.8+. You need to have Java installed to run CoreNLP. However, you can interact with CoreNLP via the command-line or its web service; many people use CoreNLP while writing their own code in Javascript, Python, or some other language. You can use Stanford CoreNLP from the command-line, via its original Java programmatic API, via the object-oriented simple API, via third party APIs for most major modern programming languages, or via a web service. It works on Linux, macOS, and Windows. License Stanford CoreNLP is licensed under the GNU General Public License (v3 or later; in general Stanford NLP code is GPL v2+, but CoreNLP uses several Apache-licensed libraries, and so the composite is v3+). Note that the license is the full GPL, which allows many free uses, but not its use in proprietary software which is distributed to others. For distributors of proprietary software, CoreNLP is also available from Stanford under a commercial licensing You can contact us at java-nlp-support@lists.stanford.edu. If you don’t need a commercial license, but would like to support maintenance of these tools, we welcome gift funding: use this form and write “Stanford NLP Group open source software” in the Special Instructions. Citing Stanford CoreNLP in papers If you’re just running the CoreNLP pipeline, please cite this CoreNLP paper: Manning, Christopher D., Mihai Surdeanu, John Bauer, Jenny Finkel, Steven J. Bethard, and David McClosky. 2014. The Stanford CoreNLP Natural Language Processing Toolkit In Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics: System Demonstrations, pp. 55-60. [pdf] [bib] If you’re dealing in depth with particular annotators, you’re also encouraged to cite the papers that cover individual components: POS tagging, NER, constituency parsing, dependency parsing, coreference resolution, sentiment, or Open IE. You can find more information on the Stanford NLP software pages and/or publications page.
+
+
+
+
+------------Breaking text to sentences for tokenisation------------
+Toggle navigation Stanford CoreNLP Github repo Quick links Online demo (Webservice API) Online demo (Traditional) Maven Central NuGet (.NET) Other languages/packages Paper to cite Stack Overflow Twitter CoreNLP version 3.9.0 Overview About Download Languages License and Citing Usage Download / Maven Migration Guide Command line usage Stanford CoreNLP API Simple CoreNLP API Interactive mode (REPL) CoreNLP server Caseless operation On other human languages From other languages/packages Annotators Summary Annotator dependencies Tokenization Sentence Splitting Lemmatization Parts of Speech Named Entity Recognition RegexNER (Named Entity Recognition) Constituency Parsing Dependency Parsing Coreference Resolution Natural Logic Open Information Extraction Sentiment Relation Extraction Quote Annotator CleanXML Annotator True case Annotator Entity Mentions Annotator UD Features Adding a new annotator Additional tools TokensRegex Bootstrapped surface patterns Extensions Resources FAQ Memory and time optimization Online demo (API) Online demo (old skool) Javadoc Release history Contact Stanford CoreNLP – Natural language software About Stanford CoreNLP provides a set of human language technology tools. 
+It can give the base forms of words, their parts of speech, whether they are names of companies, people, etc., normalize dates, times, and numeric quantities, mark up the structure of sentences in terms of phrases and syntactic dependencies, indicate which noun phrases refer to the same entities, indicate sentiment, extract particular or open-class relations between entity mentions, get the quotes people said, etc. 
+Choose Stanford CoreNLP if you need: An integrated NLP toolkit with a broad range of grammatical analysis tools A fast, robust annotator for arbitrary texts, widely used in production A modern, regularly updated package, with the overall highest quality text analytics Support for a number of major (human) languages Available APIs for most major modern programming languages Ability to run as a simple web service Stanford CoreNLP’s goal is to make it very easy to apply a bunch of linguistic analysis tools to a piece of text. 
+A tool pipeline can be run on a piece of plain text with just two lines of code. 
+CoreNLP is designed to be highly flexible and extensible. 
+With a single option you can change which tools should be enabled and disabled. 
+Stanford CoreNLP integrates many of Stanford’s NLP tools, including the part-of-speech (POS) tagger, the named entity recognizer (NER), the parser, the coreference resolution system, sentiment analysis, bootstrapped pattern learning, and the open information extraction tools. 
+Moreover, an annotator pipeline can include additional custom or third-party annotators. 
+CoreNLP’s analyses provide the foundational building blocks for higher-level and domain-specific text understanding applications. 
+Download Stanford CoreNLP can be downloaded via the link below. 
+This will download a large (~500 MB) zip file containing (1) the CoreNLP code jar, (2) the CoreNLP models jar (required in your classpath for most tasks), (3) the libraries required to run CoreNLP, and (4) documentation / source code for the project. 
+Unzip this file, open the folder that results and you’re ready to use it. 
+Download CoreNLP 3.9.0 Alternatively, Stanford CoreNLP is available on Maven Central. 
+Source is available on GitHub. 
+For more information on obtaining CoreNLP, see the download page. 
+To download earlier versions of Stanford CoreNLP or language packs for earlier versions, go to the history page. 
+The table below has jars for the current release with all the models for each language we support. 
+Due to size issues we have divided the English resources into two jars. 
+The English (KBP) models jar contains extra resources needed to run relation extraction and entity linking. 
+Language model jar version Arabic download 3.9.0 Chinese download 3.9.0 English download 3.9.0 English (KBP) download 3.9.0 French download 3.9.0 German download 3.9.0 Spanish download 3.9.0 Human languages supported The basic distribution provides model files for the analysis of well-edited English, but the engine is compatible with models for other languages. 
+In the table above, we provide packaged models for Arabic, Chinese, French, German, and Spanish. 
+We also provide two jars that contain all of our English models, which include various variant models, and in particular models optimized for working with uncased English (e.g., mostly or all either uppercase or lowercase). 
+There is also some third party support for additional languages (and we would welcome more!). 
+You can find out more about using CoreNLP with various human languages on the other human languages page. 
+Programming languages and operating systems Stanford CoreNLP is written in Java; recent releases require Java 1.8+. 
+You need to have Java installed to run CoreNLP. 
+However, you can interact with CoreNLP via the command-line or its web service; many people use CoreNLP while writing their own code in Javascript, Python, or some other language. 
+You can use Stanford CoreNLP from the command-line, via its original Java programmatic API, via the object-oriented simple API, via third party APIs for most major modern programming languages, or via a web service. 
+It works on Linux, macOS, and Windows. 
+License Stanford CoreNLP is licensed under the GNU General Public License (v3 or later; in general Stanford NLP code is GPL v2+, but CoreNLP uses several Apache-licensed libraries, and so the composite is v3+). 
+Note that the license is the full GPL, which allows many free uses, but not its use in proprietary software which is distributed to others. 
+For distributors of proprietary software, CoreNLP is also available from Stanford under a commercial licensing You can contact us at java-nlp-support@lists.stanford.edu. 
+If you don’t need a commercial license, but would like to support maintenance of these tools, we welcome gift funding: use this form and write “Stanford NLP Group open source software” in the Special Instructions. 
+Citing Stanford CoreNLP in papers If you’re just running the CoreNLP pipeline, please cite this CoreNLP paper: Manning, Christopher D., Mihai Surdeanu, John Bauer, Jenny Finkel, Steven J. 
+Bethard, and David McClosky. 2014. 
+The Stanford CoreNLP Natural Language Processing Toolkit In Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics: System Demonstrations, pp. 55-60. 
+[pdf] [bib] If you’re dealing in depth with particular annotators, you’re also encouraged to cite the papers that cover individual components: POS tagging, NER, constituency parsing, dependency parsing, coreference resolution, sentiment, or Open IE. 
+You can find more information on the Stanford NLP software pages and/or publications page.
+
+
+------------Tokenised words------------
+toggle, navigation, stanford, corenlp, github, repo, quick, links, online, demo, webservice, api, online, demo, traditional, maven, central, nuget, net, other, languages, packages, paper, to, cite, stack, overflow, twitter, corenlp, version, 3, 9, 0, overview, about, download, languages, license, and, citing, usage, download, maven, migration, guide, command, line, usage, stanford, corenlp, api, simple, corenlp, api, interactive, mode, repl, corenlp, server, caseless, operation, on, other, human, languages, from, other, languages, packages, annotators, summary, annotator, dependencies, tokenization, sentence, splitting, lemmatization, parts, of, speech, named, entity, recognition, regexner, named, entity, recognition, constituency, parsing, dependency, parsing, coreference, resolution, natural, logic, open, information, extraction, sentiment, relation, extraction, quote, annotator, cleanxml, annotator, true, case, annotator, entity, mentions, annotator, ud, features, adding, a, new, annotator, additional, tools, tokensregex, bootstrapped, surface, patterns, extensions, resources, faq, memory, and, time, optimization, online, demo, api, online, demo, old, skool, javadoc, release, history, contact, stanford, corenlp, natural, language, software, about, stanford, corenlp, provides, a, set, of, human, language, technology, tools, it, can, give, the, base, forms, of, words, their, parts, of, speech, whether, they, are, names, of, companies, people, etc, normalize, dates, times, and, numeric, quantities, mark, up, the, structure, of, sentences, in, terms, of, phrases, and, syntactic, dependencies, indicate, which, noun, phrases, refer, to, the, same, entities, indicate, sentiment, extract, particular, or, open, class, relations, between, entity, mentions, get, the, quotes, people, said, etc, choose, stanford, corenlp, if, you, need, an, integrated, nlp, toolkit, with, a, broad, range, of, grammatical, analysis, tools, a, fast, robust, annotator, for, arbitrary, texts, widely, used, in, production, a, modern, regularly, updated, package, with, the, overall, highest, quality, text, analytics, support, for, a, number, of, major, human, languages, available, apis, for, most, major, modern, programming, languages, ability, to, run, as, a, simple, web, service, stanford, corenlp, s, goal, is, to, make, it, very, easy, to, apply, a, bunch, of, linguistic, analysis, tools, to, a, piece, of, text, a, tool, pipeline, can, be, run, on, a, piece, of, plain, text, with, just, two, lines, of, code, corenlp, is, designed, to, be, highly, flexible, and, extensible, with, a, single, option, you, can, change, which, tools, should, be, enabled, and, disabled, stanford, corenlp, integrates, many, of, stanford, s, nlp, tools, including, the, part, of, speech, pos, tagger, the, named, entity, recognizer, ner, the, parser, the, coreference, resolution, system, sentiment, analysis, bootstrapped, pattern, learning, and, the, open, information, extraction, tools, moreover, an, annotator, pipeline, can, include, additional, custom, or, third, party, annotators, corenlp, s, analyses, provide, the, foundational, building, blocks, for, higher, level, and, domain, specific, text, understanding, applications, download, stanford, corenlp, can, be, downloaded, via, the, link, below, this, will, download, a, large, 500, mb, zip, file, containing, 1, the, corenlp, code, jar, 2, the, corenlp, models, jar, required, in, your, classpath, for, most, tasks, 3, the, libraries, required, to, run, corenlp, and, 4, documentation, source, code, for, the, project, unzip, this, file, open, the, folder, that, results, and, you, re, ready, to, use, it, download, corenlp, 3, 9, 0, alternatively, stanford, corenlp, is, available, on, maven, central, source, is, available, on, github, for, more, information, on, obtaining, corenlp, see, the, download, page, to, download, earlier, versions, of, stanford, corenlp, or, language, packs, for, earlier, versions, go, to, the, history, page, the, table, below, has, jars, for, the, current, release, with, all, the, models, for, each, language, we, support, due, to, size, issues, we, have, divided, the, english, resources, into, two, jars, the, english, kbp, models, jar, contains, extra, resources, needed, to, run, relation, extraction, and, entity, linking, language, model, jar, version, arabic, download, 3, 9, 0, chinese, download, 3, 9, 0, english, download, 3, 9, 0, english, kbp, download, 3, 9, 0, french, download, 3, 9, 0, german, download, 3, 9, 0, spanish, download, 3, 9, 0, human, languages, supported, the, basic, distribution, provides, model, files, for, the, analysis, of, well, edited, english, but, the, engine, is, compatible, with, models, for, other, languages, in, the, table, above, we, provide, packaged, models, for, arabic, chinese, french, german, and, spanish, we, also, provide, two, jars, that, contain, all, of, our, english, models, which, include, various, variant, models, and, in, particular, models, optimized, for, working, with, uncased, english, e, g, mostly, or, all, either, uppercase, or, lowercase, there, is, also, some, third, party, support, for, additional, languages, and, we, would, welcome, more, you, can, find, out, more, about, using, corenlp, with, various, human, languages, on, the, other, human, languages, page, programming, languages, and, operating, systems, stanford, corenlp, is, written, in, java, recent, releases, require, java, 1, 8, you, need, to, have, java, installed, to, run, corenlp, however, you, can, interact, with, corenlp, via, the, command, line, or, its, web, service, many, people, use, corenlp, while, writing, their, own, code, in, javascript, python, or, some, other, language, you, can, use, stanford, corenlp, from, the, command, line, via, its, original, java, programmatic, api, via, the, object, oriented, simple, api, via, third, party, apis, for, most, major, modern, programming, languages, or, via, a, web, service, it, works, on, linux, macos, and, windows, license, stanford, corenlp, is, licensed, under, the, gnu, general, public, license, v3, or, later, in, general, stanford, nlp, code, is, gpl, v2, but, corenlp, uses, several, apache, licensed, libraries, and, so, the, composite, is, v3, note, that, the, license, is, the, full, gpl, which, allows, many, free, uses, but, not, its, use, in, proprietary, software, which, is, distributed, to, others, for, distributors, of, proprietary, software, corenlp, is, also, available, from, stanford, under, a, commercial, licensing, you, can, contact, us, at, java, nlp, support, lists, stanford, edu, if, you, don, t, need, a, commercial, license, but, would, like, to, support, maintenance, of, these, tools, we, welcome, gift, funding, use, this, form, and, write, stanford, nlp, group, open, source, software, in, the, special, instructions, citing, stanford, corenlp, in, papers, if, you, re, just, running, the, corenlp, pipeline, please, cite, this, corenlp, paper, manning, christopher, d, mihai, surdeanu, john, bauer, jenny, finkel, steven, j, bethard, and, david, mcclosky, 2014, the, stanford, corenlp, natural, language, processing, toolkit, in, proceedings, of, the, 52nd, annual, meeting, of, the, association, for, computational, linguistics, system, demonstrations, pp, 55, 60, pdf, bib, if, you, re, dealing, in, depth, with, particular, annotators, you, re, also, encouraged, to, cite, the, papers, that, cover, individual, components, pos, tagging, ner, constituency, parsing, dependency, parsing, coreference, resolution, sentiment, or, open, ie, you, can, find, more, information, on, the, stanford, nlp, software, pages, and, or, publications, page, 
+
+
+
+------------Removing bold words in body text------------
+0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 2, 
+
+------------Removing href text from body text------------
+about, about, about, contact, contact, resources, resources, resources, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, apply, at, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, download, download, download, download, download, download, download, download, download, download, download, download, download, download, available, available, available, available, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, language, language, language, language, language, language, language, group, 2014, project, extraction, extraction, extraction, extraction, of, of, of, of, of, of, of, of, of, of, of, of, of, of, of, of, of, of, of, of, of, of, information, information, information, information, s, s, s, analysis, analysis, analysis, analysis, our, in, in, in, in, in, in, in, in, in, in, in, in, in, arabic, arabic, paper, paper, page, page, page, page, results, this, this, this, this, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, open, open, open, open, open, open, public, server, learning, is, is, is, is, is, is, is, is, is, is, is, is, is, original, text, text, text, text, analytics, for, for, for, for, for, for, for, for, for, for, for, for, for, for, for, for, for, for, on, on, on, on, on, on, on, on, recent, web, web, web, online, online, online, online, languages, languages, languages, languages, languages, languages, languages, languages, languages, languages, languages, languages, languages, special, natural, natural, natural, interactive, level, david, publications, stanford, stanford, stanford, stanford, stanford, stanford, stanford, stanford, stanford, stanford, stanford, stanford, stanford, stanford, stanford, stanford, stanford, stanford, stanford, stanford, stanford, corenlp, corenlp, corenlp, corenlp, corenlp, corenlp, corenlp, corenlp, corenlp, corenlp, corenlp, corenlp, corenlp, corenlp, corenlp, corenlp, corenlp, corenlp, corenlp, corenlp, corenlp, corenlp, corenlp, corenlp, corenlp, corenlp, corenlp, corenlp, corenlp, corenlp, corenlp, corenlp, corenlp, github, github, repo, quick, links, demo, demo, demo, demo, webservice, api, api, api, api, api, api, traditional, maven, maven, maven, central, central, nuget, net, other, other, other, other, other, other, packages, packages, cite, cite, cite, stack, overflow, twitter, overview, license, license, license, license, license, citing, citing, usage, usage, migration, guide, command, command, command, line, line, line, simple, simple, simple, mode, repl, caseless, operation, human, human, human, human, human, from, from, from, annotators, annotators, annotators, summary, annotator, annotator, annotator, annotator, annotator, annotator, annotator, annotator, dependencies, dependencies, tokenization, sentence, splitting, lemmatization, parts, parts, speech, speech, speech, named, named, named, entity, entity, entity, entity, entity, entity, recognition, recognition, regexner, constituency, constituency, parsing, parsing, parsing, parsing, dependency, dependency, coreference, coreference, coreference, resolution, resolution, resolution, logic, sentiment, sentiment, sentiment, sentiment, relation, relation, quote, cleanxml, true, case, mentions, mentions, ud, features, adding, new, additional, additional, additional, tools, tools, tools, tools, tools, tools, tools, tools, tokensregex, bootstrapped, bootstrapped, surface, patterns, extensions, faq, memory, time, optimization, old, skool, javadoc, release, release, history, history, part, pos, pos, tagger, recognizer, ner, ner, parser, system, system, pattern, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 9, 9, 9, 9, 9, 9, 9, 9, 9, human, programmatic, third, third, third, party, party, party, apis, apis, service, service, service, gnu, general, general, proprietary, proprietary, software, software, software, software, software, commercial, commercial, licensing, java, java, java, java, java, nlp, nlp, nlp, nlp, nlp, nlp, support, support, support, support, support, lists, edu, form, processing, toolkit, toolkit, pdf, bib, tagging, ie, pages, 
+
+------------After removing stopwords------------
+toggle, navigation, version, provides, set, technology, can, give, base, forms, words, whether, names, companies, people, etc, normalize, dates, times, numeric, quantities, mark, structure, sentences, terms, phrases, syntactic, indicate, noun, phrases, refer, entities, indicate, extract, particular, class, relations, get, quotes, people, said, etc, choose, need, integrated, broad, range, grammatical, fast, robust, arbitrary, texts, widely, used, production, modern, regularly, updated, package, overall, highest, quality, number, major, major, modern, programming, ability, run, goal, make, easy, bunch, linguistic, piece, tool, pipeline, can, run, piece, plain, just, two, lines, code, designed, highly, flexible, extensible, single, option, can, change, enabled, disabled, integrates, many, including, moreover, pipeline, can, include, custom, analyses, provide, foundational, building, blocks, higher, domain, specific, understanding, applications, can, downloaded, via, link, will, large, 500, mb, zip, file, containing, code, jar, models, jar, required, classpath, tasks, libraries, required, run, 4, documentation, source, code, unzip, file, folder, re, ready, use, alternatively, source, obtaining, see, earlier, versions, packs, earlier, versions, go, table, jars, current, models, due, size, issues, divided, english, two, jars, english, kbp, models, jar, contains, extra, needed, run, linking, model, jar, version, chinese, english, english, kbp, french, german, spanish, supported, basic, distribution, provides, model, files, well, edited, english, engine, compatible, models, table, provide, packaged, models, chinese, french, german, spanish, also, provide, two, jars, contain, english, models, include, various, variant, models, particular, models, optimized, working, uncased, english, e, g, mostly, either, uppercase, lowercase, also, welcome, can, find, using, various, programming, operating, systems, written, releases, require, 8, need, installed, run, however, can, interact, via, many, people, use, writing, code, javascript, python, can, use, via, via, object, oriented, via, major, modern, programming, via, works, linux, macos, windows, licensed, v3, later, code, gpl, v2, uses, several, apache, licensed, libraries, composite, v3, note, full, gpl, allows, many, free, uses, use, distributed, others, distributors, also, can, us, don, t, need, like, maintenance, welcome, gift, funding, use, write, source, instructions, papers, re, just, running, pipeline, please, manning, christopher, d, mihai, surdeanu, john, bauer, jenny, finkel, steven, j, bethard, mcclosky, proceedings, 52nd, annual, meeting, association, computational, linguistics, demonstrations, pp, 55, 60, re, dealing, depth, particular, re, also, encouraged, papers, cover, individual, components, can, find, 
+
+------------Remaining words after word frequency used to remove unnecessary words------------
+german, via, english, jar, welcome, models, version, re, two, indicate, licensed, many, people, phrases, v3, run, source, chinese, programming, gpl, need, piece, papers, provides, just, spanish, libraries, required, model, french, provide, versions, file, modern, table, include, pipeline, use, jars, major, earlier, etc, find, particular, code, also, various, kbp, uses, 
+
+------------Choosing heading with NN and NNP tags------------
+Microsoft, BCS, BCS, IRSG, Karen, Sp, rck, Jones, Award, Award, Karen, Sp, rck, Jones, Karen, Sp, rck, Jones, award, Karen, Sp, rck, Jones, award, Recipients, Karen, Sp, rck, Jones, award, Karen, Sp, rck, Jones, award, award, award, award, award, award, panel, members, Udo, Kruschwitz, Research, Information, Research, Interests, Projects, Collaboration, Research, Development, Projects, Involvements, Teaching, PhD, Students, co, Publications, Stanford, CoreNLP, language, software, languages, Programming, languages, systems, License, Stanford, CoreNLP, papers, 
+
+------------Choosing bold words with NN and NNP tags------------
+Informer, BCS, IRSG, Fernando, Diaz, Jaime, Teevan, Jordan, Boyd, Graber, Emine, Yilmaz, Ryen, White, Eugene, Agichtein, Diane, Kelly, Evgeniy, Gabrilovich, Mirella, Lapata, Udo, change, January, 
+
+------------POS tagging and word lemmatization and stem------------
+Tag: german_NN   Word: german  Lemma: german  Stem: german
+Tag: jar_NN   Word: jar  Lemma: jar  Stem: jar
+Tag: models_NNS   Word: models  Lemma: model  Stem: model
+Tag: version_NN   Word: version  Lemma: version  Stem: version
+Tag: re_NN   Word: re  Lemma: re  Stem: be
+Tag: people_NNS   Word: people  Lemma: people  Stem: people
+Tag: phrases_NNS   Word: phrases  Lemma: phrase  Stem: phrase
+Tag: v3_NN   Word: v3  Lemma: v3  Stem: v3
+Tag: run_NN   Word: run  Lemma: run  Stem: run
+Tag: source_NN   Word: source  Lemma: source  Stem: source
+Tag: programming_NN   Word: programming  Lemma: programming  Stem: program
+Tag: gpl_NN   Word: gpl  Lemma: gpl  Stem: gpl
+Tag: need_NN   Word: need  Lemma: need  Stem: need
+Tag: piece_NN   Word: piece  Lemma: piece  Stem: piece
+Tag: papers_NNS   Word: papers  Lemma: papers  Stem: papers
+Tag: spanish_NNP   Word: spanish  Lemma: spanish  Stem: spanish
+Tag: libraries_NNS   Word: libraries  Lemma: library  Stem: library
+Tag: model_NN   Word: model  Lemma: model  Stem: model
+Tag: versions_NNS   Word: versions  Lemma: version  Stem: version
+Tag: file_NN   Word: file  Lemma: file  Stem: file
+Tag: table_NN   Word: table  Lemma: table  Stem: table
+Tag: pipeline_NN   Word: pipeline  Lemma: pipeline  Stem: pipeline
+Tag: use_NN   Word: use  Lemma: use  Stem: use
+Tag: jars_NNS   Word: jars  Lemma: jar  Stem: jar
+Tag: code_NN   Word: code  Lemma: code  Stem: code
+Tag: kbp_NN   Word: kbp  Lemma: kbp  Stem: kbp
+Tag: uses_NNS   Word: uses  Lemma: use  Stem: use
+
+
+
+
+------------Href text from HTML url http://orb.essex.ac.uk/ce/ce306/syllabus.html 
+Lectures 1-2
+Lectures 3-4
+Lab 1
+Lectures 5-6
+Regular expressions
+Lecture 7
+Flax
+Assignment 1 (CE306)
+Assignment 1 (CE706)
+Lab 2
+instructions
+Lectures 9-10
+Lectures 11-12
+Lab 3
+Lectures 13-14
+
+
+------------Headings from HTML url http://orb.essex.ac.uk/ce/ce306/syllabus.html 
+CE306/CE707: Information Retrieval
+Syllabus (subject to changes)
+
+
+------------Bold tags from HTML url http://orb.essex.ac.uk/ce/ce306/syllabus.html 
+Week
+Day
+Topic
+Reading
+Assignments
+Lecture Notes
+
+
+------------Retrieved text from HTML url http://orb.essex.ac.uk/ce/ce306/syllabus.html 
+CE306/CE707: Information Retrieval Syllabus (subject to changes) The readings are from the Croft et al. (2015) textbook, except where noted. Week Day Topic Reading Assignments Lecture Notes 16 15 Jan Lecture: Introduction to IR Ch. 1 Lectures 1-2 17 22 Jan Lecture: Ad-hoc Retrieval + IR Processing Pipeline Ch. 2, Ch. 4.1-4.3;CE706: (Justeson&Katz, 1995) Lectures 3-4 22/23 Jan Lab: Elasticsearch Lab 1 18 29 Jan Lecture: Indexing Ch. 5.3 Lectures 5-6 29 Jan Class Regular expressions 19 5 Feb Lecture: Retrieval Models Ch. 7.1 Assignment 1 Lecture 7 5 Feb Industry Speaker Charlie Hull (Flax) Assignment 1 (CE306) and Assignment 1 (CE706) Lecture 8 5/6 Feb Lab: RegEx + NLP Tools Lab 2 and instructions for running this in the CSEE Lab settings 20 12 Feb Lecture: Evaluation Ch. 8; (Fuhr, 2017) Lectures 9-10 12 Feb Class 21 19 Feb Lecture: Web Search Ch. 3, 4.4-4.5, 7.5; (Brin&Page, 1998), (Chakrabarti et al., 1999); (Belkin, 2008) Lectures 11-12 19/20 Feb Lab: Evaluation Lab 3 22 26 Feb Lecture: Search Log Analysis Sec 9.1 of (Manning et al., 2009) (Joachims et al., 2005) Lectures 13-14
+
+
+
+
+------------Breaking text to sentences for tokenisation------------
+CE306/CE707: Information Retrieval Syllabus (subject to changes) The readings are from the Croft et al. (2015) textbook, except where noted. 
+Week Day Topic Reading Assignments Lecture Notes 16 15 Jan Lecture: Introduction to IR Ch. 1 Lectures 1-2 17 22 Jan Lecture: Ad-hoc Retrieval + IR Processing Pipeline Ch. 2, Ch. 4.1-4.3;CE706: (Justeson&Katz, 1995) Lectures 3-4 22/23 Jan Lab: Elasticsearch Lab 1 18 29 Jan Lecture: Indexing Ch. 5.3 Lectures 5-6 29 Jan Class Regular expressions 19 5 Feb Lecture: Retrieval Models Ch. 7.1 Assignment 1 Lecture 7 5 Feb Industry Speaker Charlie Hull (Flax) Assignment 1 (CE306) and Assignment 1 (CE706) Lecture 8 5/6 Feb Lab: RegEx + NLP Tools Lab 2 and instructions for running this in the CSEE Lab settings 20 12 Feb Lecture: Evaluation Ch. 8; (Fuhr, 2017) Lectures 9-10 12 Feb Class 21 19 Feb Lecture: Web Search Ch. 3, 4.4-4.5, 7.5; (Brin&Page, 1998), (Chakrabarti et al., 1999); (Belkin, 2008) Lectures 11-12 19/20 Feb Lab: Evaluation Lab 3 22 26 Feb Lecture: Search Log Analysis Sec 9.1 of (Manning et al., 2009) (Joachims et al., 2005) Lectures 13-14
+
+
+------------Tokenised words------------
+ce306, ce707, information, retrieval, syllabus, subject, to, changes, the, readings, are, from, the, croft, et, al, 2015, textbook, except, where, noted, week, day, topic, reading, assignments, lecture, notes, 16, 15, jan, lecture, introduction, to, ir, ch, 1, lectures, 1, 2, 17, 22, jan, lecture, ad, hoc, retrieval, ir, processing, pipeline, ch, 2, ch, 4, 1, 4, 3, ce706, justeson, katz, 1995, lectures, 3, 4, 22, 23, jan, lab, elasticsearch, lab, 1, 18, 29, jan, lecture, indexing, ch, 5, 3, lectures, 5, 6, 29, jan, class, regular, expressions, 19, 5, feb, lecture, retrieval, models, ch, 7, 1, assignment, 1, lecture, 7, 5, feb, industry, speaker, charlie, hull, flax, assignment, 1, ce306, and, assignment, 1, ce706, lecture, 8, 5, 6, feb, lab, regex, nlp, tools, lab, 2, and, instructions, for, running, this, in, the, csee, lab, settings, 20, 12, feb, lecture, evaluation, ch, 8, fuhr, 2017, lectures, 9, 10, 12, feb, class, 21, 19, feb, lecture, web, search, ch, 3, 4, 4, 4, 5, 7, 5, brin, page, 1998, chakrabarti, et, al, 1999, belkin, 2008, lectures, 11, 12, 19, 20, feb, lab, evaluation, lab, 3, 22, 26, feb, lecture, search, log, analysis, sec, 9, 1, of, manning, et, al, 2009, joachims, et, al, 2005, lectures, 13, 14, 
+
+
+
+------------Removing bold words in body text------------
+1, 1, 2, 2, 3, 3, week, 3, 3, day, 3, topic, reading, assignments, 
+
+------------Removing href text from body text------------
+search, search, industry, to, to, 2017, 2015, 2009, and, and, of, information, log, analysis, in, page, this, the, the, the, 18, for, retrieval, retrieval, retrieval, 16, 15, web, ir, ir, 14, 2008, ce306, ce306, ce706, ce706, from, tools, 9, 9, nlp, processing, lectures, lectures, lectures, lectures, lectures, lectures, 1, 1, 1, 1, 1, 1, 1, 2, 4, 4, 4, 4, lab, lab, lab, lab, lab, lab, lab, 5, 5, 5, 5, 5, 5, 6, 6, regular, expressions, lecture, lecture, lecture, lecture, lecture, lecture, lecture, lecture, lecture, lecture, 7, 7, 7, flax, assignment, assignment, assignment, instructions, 10, 11, 12, 12, 12, 13, 
+
+------------After removing stopwords------------
+ce707, syllabus, subject, changes, readings, croft, et, al, textbook, except, noted, notes, jan, introduction, ch, 17, 22, jan, ad, hoc, pipeline, ch, ch, 4, justeson, katz, 1995, 22, 23, jan, elasticsearch, 29, jan, indexing, ch, 5, 29, jan, class, 19, feb, models, ch, feb, speaker, charlie, hull, 8, feb, regex, running, csee, settings, 20, feb, evaluation, ch, 8, fuhr, feb, class, 21, 19, feb, ch, 4, brin, 1998, chakrabarti, et, al, 1999, belkin, 19, 20, feb, evaluation, 22, 26, feb, sec, manning, et, al, joachims, et, al, 2005, 
+
+------------Remaining words after word frequency used to remove unnecessary words------------
+feb, evaluation, jan, 19, al, et, 4, 8, 20, 22, 29, class, ch, 
+
+------------Choosing heading with NN and NNP tags------------
+Microsoft, BCS, BCS, IRSG, Karen, Sp, rck, Jones, Award, Award, Karen, Sp, rck, Jones, Karen, Sp, rck, Jones, award, Karen, Sp, rck, Jones, award, Recipients, Karen, Sp, rck, Jones, award, Karen, Sp, rck, Jones, award, award, award, award, award, award, panel, members, Udo, Kruschwitz, Research, Information, Research, Interests, Projects, Collaboration, Research, Development, Projects, Involvements, Teaching, PhD, Students, co, Publications, Stanford, CoreNLP, language, software, languages, Programming, languages, systems, License, Stanford, CoreNLP, papers, CE306, CE707, Information, Retrieval, Syllabus, subject, changes, 
+
+------------Choosing bold words with NN and NNP tags------------
+Informer, BCS, IRSG, Fernando, Diaz, Jaime, Teevan, Jordan, Boyd, Graber, Emine, Yilmaz, Ryen, White, Eugene, Agichtein, Diane, Kelly, Evgeniy, Gabrilovich, Mirella, Lapata, Udo, change, January, Week, Day, Topic, Assignments, Lecture, Notes, 
+
+------------POS tagging and word lemmatization and stem------------
+Tag: feb_NN   Word: feb  Lemma: feb  Stem: feb
+Tag: evaluation_NN   Word: evaluation  Lemma: evaluation  Stem: evaluation
+Tag: jan_NN   Word: jan  Lemma: jan  Stem: jan
+Tag: al_NNP   Word: al  Lemma: al  Stem: al
+Tag: class_NN   Word: class  Lemma: class  Stem: class
+Tag: ch_NN   Word: ch  Lemma: ch  Stem: ch
+
+
