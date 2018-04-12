@@ -4,7 +4,7 @@ output an index of terms in the document.
 
 # USE:
 PC with Java installed.
-Run the <b> IndexWS.java <b> file.
+Run the <b> IndexWS.java </b> file.
 
 # PROGRAM: 
 Asks user for URL of webpage to be web scrape and will contain asking until
