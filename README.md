@@ -21,5 +21,5 @@ Search.csv: Contains the indexed words along with its document ID.
 each-stages.txt: Shows each process in pipeline.
 
 # LIBRARIES:
--Jsoup: For web scraping
+-Jsoup: For web scraping <\n>
 -Stanford CoreNLP: For Part-of-Speech Tagging and Morphology process in pipeline.
